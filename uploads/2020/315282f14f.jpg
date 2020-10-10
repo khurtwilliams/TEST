@@ -1,0 +1,4415 @@
+
+
+	
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="de"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="de"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="de"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="de"> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<script>
+var dataLayer = [{
+'language': 'de',
+'pageID': 'magazin_startseite',
+'pageName': 'start-page',
+'template': 'pt_magazin_startseite',
+'articleType': '',
+'publishDate': '',
+'readingTime': '',
+'primaryCategory': 'magazine',
+'page': '/magazine/',
+'pageTitle': '/magazine/ | [magazin_startseite]',
+'locationRegion': '',
+'locationCountry': '',
+'locationCity': '',
+}];
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M8JMB88');</script>
+<title>Das Daimler-Magazin für Mobilität und Gesellschaft &#124; Daimler &gt; Magazin</title>
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Das Daimler-Magazin für Mobilität und Gesellschaft &#124; Daimler" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.daimler.com/magazin/" />
+<meta property="og:site_name" content="Daimler" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://www.daimler.com/system/img/daimler-social-share.png" />
+<meta name="twitter:title" content="Das Daimler-Magazin für Mobilität und Gesellschaft &#124; Daimler" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:site" content="@daimler" />
+<meta name="twitter:creator" content="@daimler" />
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"name": "Daimler",
+"alternateName": "Daimler AG",
+"url": "https://www.daimler.com"
+}
+</script>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "Organization",
+"name": "Daimler",
+"legalName": "Daimler AG",
+"url": "https://www.daimler.com",
+"logo": "https://www.daimler.com/system/img/daimler-logo.png",
+"sameAs": [
+"https://twitter.com/daimler",
+"https://www.facebook.com/daimlercareer",
+"https://www.youtube.com/user/daimler",
+"https://www.linkedin.com/company/daimler/",
+"https://www.xing.com/companies/daimlerag",
+"https://www.instagram.com/daimler_ag/"
+]
+}
+</script>
+<link rel="canonical" href="https://www.daimler.com/magazin/" />
+<link rel="alternate" hreflang="de" href="https://www.daimler.com/magazin/" />
+<link rel="alternate" hreflang="x-default" href="https://www.daimler.com/magazine/" />
+<link rel="alternate" hreflang="en" href="https://www.daimler.com/magazine/" />
+<link rel="shortcut icon" type="image/x-icon" href="/system/img/favicon.ico" />
+<link rel="apple-touch-icon" href="/system/img/apple-touch/apple-touch-icon.png" />
+<link rel="stylesheet" href="/system/style-minified.css" />
+<script src="/system/js/vendor/modernizr-2-6-2-respond-1-1-0-min.js"></script>
+<script src="/system/js/vendor/picturefill.js"></script>
+<script src="/system/js/vendor/easyxdm-min.js"></script>
+<script src="//assets.adobedtm.com/2cb4dcceb31ca7bfe83ffa209561d85e49d11fa9/satelliteLib-35e43601e8283de287aab8a4e79b230bc7b075ef.js"></script>
+<link href="/system/css/daimler-magazin.css" rel="stylesheet">
+</head>
+<body lang="DE" >
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M8JMB88" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- MODUL "F01 - Header" START -->
+<!-- exclude -->
+<header>
+<div class="container page-header">
+<div class="row">
+<div class="col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3 col-md-12 col-md-offset-0 col-lg-12 logo-wrapper ">
+<a href="/de/" target="_self">
+<img class="logo-daimler-web logo-daimler-svg" src="/system/img/img-logo-daimler-svg.svg" alt="alt-daimler-deutsch-svg">
+<!--[if lt IE 9]>
+<img class="logo-daimler-web logo-daimler-png" src="/system/img/img-logo-daimler-png.png" alt="Daimler-Logo">
+<![endif]-->
+<img class="logo-daimler-print" src="/system/img/img-logo-daimler-print-png.png" alt="Daimler-Logo">
+</a>
+<!-- MODUL "Header-Disclaimer" Start -->
+<div class="header-disclaimer">
+<a class="privacy-disclaimer" href="#">
+<span class="hidden-xs">
+Anbieter/Datenschutz
+</span>
+</a>
+<div class="lang-switch wrapper hidden-xs" data-langs="[DE, EN]" data-trans="[EN]">
+<span class="lang-switch active" title="Deutsch">DE</span> |
+<span class="lang-switch ">
+<a href="/magazine/"
+title="English"
+lang="en"
+hreflang="en">EN</a>
+</span>
+</div>
+<div class="dropdown-lang lang-switch hidden-lg hidden-md hidden-sm">
+<button class="btn dropdown-toggle " type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<span class="lang-switch">DE<span class="caret"></span></span>
+</button>
+<ul class="dropdown-menu dropdown-menu-right">
+<li><a href="/magazine/" lang="en" hreflang="en">English (EN)</a></li>
+</ul>
+</div>
+</div>
+<div class="info-layer-wrapper">
+<div id="privacyPolicy">
+<div class="info-dialog">
+<div class="info-content">
+<div class="info-header">
+<p class="info-title">Anbieter/Datenschutz</p>
+</div>
+<div class="info-body">
+<div class="company-info">
+<p class="headline">Daimler AG</p><p>Mercedesstraße 120<br>70372 Stuttgart<br>Deutschland</p><p>Tel.: <a href="tel:+49711170">+49 711 17 0</a><br>E-Mail: <a href="mailto:dialog@daimler.com">dialog@daimler.com</a></p>
+</div>
+<div class="legal-info">
+<p><strong>Vertreten durch den Vorstand:</strong> Ola Källenius (Vorsitzender), Martin Daum, Renata Jungo Brüngger, Wilfried Porth, Markus Schäfer, Britta Seeger, Hubertus Troska, Harald Wilhelm</p><p><strong>Vorsitzender des Aufsichtsrats:</strong> Manfred Bischoff</p><p>Handelsregister beim Amtsgericht Stuttgart, Nr. HRB 19360<br>Umsatzsteueridentifikationsnummer: DE 81 25 26 315</p>
+</div>
+<div class="links">
+<ul>
+<li><a href="/anbieter/" target="_self" >Rechtliche Hinweise</a></li>
+<li><a href="/cookies/" target="_self" >Cookies</a></li>
+<li><a href="/datenschutz/" target="_self" >Datenschutz</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- MODUL "Header-Disclaimer" End -->
+</div>
+</div>
+</div> <!-- *** div page-header end *** //-->
+<nav>
+
+	
+
+<!-- ======================= Offcanvas Navigation ========================-->
+<div id="sidr-left" class="offcanvas-content">
+<ul>
+<li class="nav_986782 has-children">
+<a href="/konzern/" >Konzern</a>
+<ul>
+<li class="index "><a href="/konzern/">Übersicht</a></li>
+<li class="nav_983243 has-children">
+<a href="/konzern/strategie/" >Strategie</a>
+</li>
+<li class="nav_981122 has-children">
+<a href="/konzern/geschaeftsfelder/" >Geschäftsfelder</a>
+<ul>
+<li class="index "><a href="/konzern/geschaeftsfelder/">Übersicht</a></li>
+<li class="nav_983661 ">
+<a href="/konzern/geschaeftsfelder/mercedes-benz-cars/" >Mercedes-Benz AG</a>
+</li>
+<li class="nav_983024 ">
+<a href="/konzern/geschaeftsfelder/daimler-trucks/" >Daimler Truck AG</a>
+</li>
+<li class="nav_983663 ">
+<a href="/konzern/geschaeftsfelder/daimler-mobility/" >Daimler Mobility AG</a>
+</li>
+</ul>
+</li>
+<li class="nav_981590 has-children">
+<a href="/konzern/corporate-governance/" >Unternehmensführung</a>
+<ul>
+<li class="index "><a href="/konzern/corporate-governance/">Übersicht</a></li>
+<li class="nav_981156 has-children">
+<a href="/konzern/corporate-governance/vorstand/" >Vorstand</a>
+<ul>
+<li class="index "><a href="/konzern/corporate-governance/vorstand/">Übersicht</a></li>
+<li class="nav_981212 has-children">
+<a href="/konzern/corporate-governance/vorstand/kaellenius/" >Ola Källenius</a>
+</li>
+<li class="nav_1012829 ">
+<a href="/konzern/corporate-governance/vorstand/daum/" >Martin Daum</a>
+</li>
+<li class="nav_994898 ">
+<a href="/konzern/corporate-governance/vorstand/jungo-bruengger/" >Renata Jungo Brüngger</a>
+</li>
+<li class="nav_981213 ">
+<a href="/konzern/corporate-governance/vorstand/porth/" >Wilfried Porth</a>
+</li>
+<li class="nav_1106188 ">
+<a href="/konzern/corporate-governance/vorstand/schaefer/" >Markus Schäfer </a>
+</li>
+<li class="nav_1004712 ">
+<a href="/konzern/corporate-governance/vorstand/seeger/" >Britta Seeger</a>
+</li>
+<li class="nav_981214 ">
+<a href="/konzern/corporate-governance/vorstand/troska/" >Hubertus Troska</a>
+</li>
+<li class="nav_1100522 ">
+<a href="/konzern/corporate-governance/vorstand/wilhelm/" >Harald Wilhelm</a>
+</li>
+<li class="nav_981230 ">
+<a href="/konzern/corporate-governance/vorstand/verguetung/" >Vergütung</a>
+</li>
+</ul>
+</li>
+<li class="nav_981153 ">
+<a href="/konzern/corporate-governance/aufsichtsrat/" >Aufsichtsrat</a>
+</li>
+<li class="nav_981154 ">
+<a href="/konzern/corporate-governance/managers-transactions/" >Managers&#39; Transactions</a>
+</li>
+<li class="nav_981615 ">
+<a href="/konzern/corporate-governance/erklaerungen/" >Erklärungen &amp; Berichte</a>
+</li>
+</ul>
+</li>
+<li class="nav_980927 ">
+<a href="/konzern/compliance/" >Compliance</a>
+</li>
+<li class="nav_981128 has-children">
+<a href="/konzern/tradition/" >Tradition</a>
+<ul>
+<li class="index "><a href="/konzern/tradition/">Übersicht</a></li>
+<li class="nav_985206 ">
+<a href="/konzern/tradition/geschichte/" >Geschichte</a>
+</li>
+<li class="nav_985193 ">
+<a href="/konzern/tradition/gruender-wegbereiter/" >Gründer &amp; Wegbereiter</a>
+</li>
+<li class="nav_986834 ">
+<a href="/konzern/tradition/vorstandsvorsitzende/" >Vorstandsvorsitzende</a>
+</li>
+<li class="nav_987313 ">
+<a href="/konzern/tradition/mercedes-benz/" >Mercedes-Benz</a>
+</li>
+<li class="nav_985237 ">
+<a href="/konzern/tradition/museen-historische-orte/" >Museen &amp; Historische Orte</a>
+</li>
+</ul>
+</li>
+<li class="nav_981124 has-children">
+<a href="/karriere/ueber-uns/standorte/" >Standorte</a>
+</li>
+</ul>
+</li>
+<li class="nav_987045 has-children">
+<a href="/produkte/" >Produkte</a>
+<ul>
+<li class="index "><a href="/produkte/">Übersicht</a></li>
+<li class="nav_993341 has-children">
+<a href="/produkte/pkw/" >Pkw</a>
+</li>
+<li class="nav_993357 has-children">
+<a href="/produkte/lkw/" >Lkw</a>
+</li>
+<li class="nav_982236 ">
+<a href="/produkte/transporter/" >Transporter</a>
+</li>
+<li class="nav_993363 has-children">
+<a href="/produkte/busse/" >Busse</a>
+</li>
+<li class="nav_994276 ">
+<a href="/produkte/services/" >Services</a>
+</li>
+</ul>
+</li>
+<li class="nav_1015070 has-children">
+<a href="/innovation/" >Innovation</a>
+<ul>
+<li class="index "><a href="/innovation/">Übersicht</a></li>
+<li class="nav_1137077 has-children">
+<a href="/innovation/antriebe/" >Antriebe</a>
+<ul>
+<li class="index "><a href="/innovation/antriebe/">Übersicht</a></li>
+<li class="nav_1025640 ">
+<a href="/innovation/antriebe/elektro/" >Elektro</a>
+</li>
+<li class="nav_1028677 has-children">
+<a href="/innovation/diesel/" >Diesel</a>
+</li>
+<li class="nav_1137078 ">
+<a href="/innovation/antriebe/hybride/" >Hybride</a>
+</li>
+<li class="nav_1137079 ">
+<a href="/innovation/antriebe/wasserstoff/" >Wasserstoff</a>
+</li>
+</ul>
+</li>
+<li class="nav_1027078 has-children">
+<a href="/innovation/venture/" >Partnerschaften</a>
+<ul>
+<li class="index "><a href="/innovation/venture/">Übersicht</a></li>
+<li class="nav_1137080 ">
+<a href="/innovation/partnerschaften/zusammenarbeit/" >Zusammenarbeit</a>
+</li>
+<li class="nav_1137081 ">
+<a href="/innovation/partnerschaften/start-ups/" >Start-Ups</a>
+</li>
+<li class="nav_1137082 ">
+<a href="/innovation/partnerschaften/innovations-hub/" >Innovations-Hub</a>
+</li>
+</ul>
+</li>
+<li class="nav_1137083 has-children">
+<a href="/innovation/digitalisierung/" >Digitalisierung</a>
+<ul>
+<li class="index "><a href="/innovation/digitalisierung/">Übersicht</a></li>
+<li class="nav_1025634 ">
+<a href="/innovation/digitalisierung/konnektivitaet/" >Konnektivität</a>
+</li>
+<li class="nav_1025638 ">
+<a href="/innovation/digitalisierung/mobilitaetsservices/" >Mobilitätsservices</a>
+</li>
+<li class="nav_1077805 ">
+<a href="/innovation/produktion/" >Industrie 4.0</a>
+</li>
+</ul>
+</li>
+<li class="nav_1137084 has-children">
+<a href="/innovation/produktinnovation/" >Produktinnovation</a>
+<ul>
+<li class="index "><a href="/innovation/produktinnovation/">Übersicht</a></li>
+<li class="nav_1025636 ">
+<a href="/innovation/produktinnovation/autonomes-fahren/" >Autonomes Fahren</a>
+</li>
+<li class="nav_1137085 ">
+<a href="/innovation/produktinnovation/technologie/" >Technologie</a>
+</li>
+<li class="nav_999199 ">
+<a href="/innovation/design/" >Design</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav_1015087 has-children">
+<a href="/nachhaltigkeit/" >Nachhaltigkeit</a>
+<ul>
+<li class="index "><a href="/nachhaltigkeit/">Übersicht</a></li>
+<li class="nav_1044901 has-children">
+<a href="/nachhaltigkeit/klima/" >Klima</a>
+</li>
+<li class="nav_1044923 ">
+<a href="/nachhaltigkeit/ressourcen/" >Ressourcen</a>
+</li>
+<li class="nav_1132766 ">
+<a href="/nachhaltigkeit/staedte/" >Städte</a>
+</li>
+<li class="nav_1044927 ">
+<a href="/nachhaltigkeit/sicherheit/" >Sicherheit</a>
+</li>
+<li class="nav_1132843 ">
+<a href="/nachhaltigkeit/daten/" >Daten</a>
+</li>
+<li class="nav_1132855 ">
+<a href="/nachhaltigkeit/menschenrechte/" >Menschenrechte</a>
+</li>
+<li class="nav_1129997 has-children">
+<a href="/nachhaltigkeit/grundlagen/" >Grundlagen</a>
+<ul>
+<li class="index "><a href="/nachhaltigkeit/grundlagen/">Übersicht</a></li>
+<li class="nav_1136362 ">
+<a href="/nachhaltigkeit/grundlagen/integritaet/" >Integrität</a>
+</li>
+<li class="nav_1136364 ">
+<a href="/nachhaltigkeit/grundlagen/beschaeftigte/" >Beschäftigte</a>
+</li>
+<li class="nav_1136363 ">
+<a href="/nachhaltigkeit/grundlagen/partnerschaften/" >Partnerschaften</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav_980251 has-children">
+<a href="/karriere/" >Karriere</a>
+<ul>
+<li class="index "><a href="/karriere/">Übersicht</a></li>
+<li class="nav_979463 has-children">
+<a href="/karriere/ueber-uns/" >Über uns</a>
+<ul>
+<li class="index "><a href="/karriere/ueber-uns/">Übersicht</a></li>
+<li class="nav_979222 has-children">
+<a href="/karriere/ueber-uns/kultur-benefits/" >Kultur &amp; Benefits</a>
+<ul>
+<li class="index "><a href="/karriere/ueber-uns/kultur-benefits/">Übersicht</a></li>
+<li class="nav_979220 ">
+<a href="/karriere/ueber-uns/kultur-benefits/verguetung-und-zusatzleistungen/" >Vergütung und Zusatzleistungen</a>
+</li>
+<li class="nav_979223 ">
+<a href="/karriere/ueber-uns/kultur-benefits/flexibles-arbeiten/" >Flexibel Arbeiten</a>
+</li>
+<li class="nav_979221 ">
+<a href="/karriere/ueber-uns/kultur-benefits/vereinbarkeit-von-beruf-und-familie/" >Beruf und Familie</a>
+</li>
+<li class="nav_979224 ">
+<a href="/karriere/ueber-uns/kultur-benefits/gesundheit/" >Gesundheitsmanagement</a>
+</li>
+<li class="nav_1015700 ">
+<a href="/karriere/ueber-uns/kultur-benefits/mobiles-arbeiten/" >Mobil Arbeiten</a>
+</li>
+<li class="nav_991526 ">
+<a href="/karriere/ueber-uns/kultur-benefits/globales-arbeiten/" >Global Arbeiten</a>
+</li>
+<li class="nav_1018418 ">
+<a href="/karriere/ueber-uns/kultur-benefits/berufliche-weiterentwicklung/" >Berufliche Entwicklung</a>
+</li>
+<li class="nav_1075221 ">
+<a href="/karriere/ueber-uns/kultur-benefits/people-of-change/" >People of Change</a>
+</li>
+</ul>
+</li>
+<li class="nav_1042158 has-children">
+<a href="/karriere/ueber-uns/einblicke/" >Einblicke</a>
+<ul>
+<li class="index "><a href="/karriere/ueber-uns/einblicke/">Übersicht</a></li>
+<li class="nav_1004136 ">
+<a href="/karriere/ueber-uns/einblicke/research-development/" >Forschung &amp; Entwicklung</a>
+</li>
+<li class="nav_1004155 ">
+<a href="/karriere/ueber-uns/einblicke/organisation-recht-kommunikation/" >Organisation, Recht &amp; Kommunikation</a>
+</li>
+<li class="nav_1004149 ">
+<a href="/karriere/ueber-uns/einblicke/it/" >IT &amp; Telekommunikation</a>
+</li>
+<li class="nav_1004160 ">
+<a href="/karriere/ueber-uns/einblicke/logistik/" >Supply Chain Management</a>
+</li>
+<li class="nav_1004142 ">
+<a href="/karriere/ueber-uns/einblicke/produktion/" >Produktion</a>
+</li>
+<li class="nav_1010804 ">
+<a href="/karriere/ueber-uns/einblicke/einkauf/" >Einkauf</a>
+</li>
+<li class="nav_1039571 ">
+<a href="/karriere/ueber-uns/einblicke/finanzen-controlling/" >Finanzen &amp; Controlling</a>
+</li>
+<li class="nav_1056191 ">
+<a href="/karriere/ueber-uns/einblicke/konzernentwicklung-strategie/" >Konzernentwicklung/-strategie</a>
+</li>
+<li class="nav_1569861 ">
+<a href="/karriere/ueber-uns/einblicke/marketing-vertrieb/" >Marketing &amp; Vertrieb</a>
+</li>
+<li class="nav_1095994 ">
+<a href="/karriere/ueber-uns/einblicke/podcast/" >Podcast</a>
+</li>
+</ul>
+</li>
+<li class="nav_1111581 has-children">
+<a href="/karriere/ueber-uns/artificial-intelligence/" >Artificial Intelligence</a>
+<ul>
+<li class="index "><a href="/karriere/ueber-uns/artificial-intelligence/">Übersicht</a></li>
+<li class="nav_1127035 ">
+<a href="/karriere/ueber-uns/artificial-intelligence/interviews/" >Interviews</a>
+</li>
+<li class="nav_1127031 ">
+<a href="/karriere/ueber-uns/artificial-intelligence/fuer-nerds/" >Nerds</a>
+</li>
+<li class="nav_1126754 ">
+<a href="/karriere/ueber-uns/artificial-intelligence/community-und-tools/" >Community und Tools</a>
+</li>
+<li class="nav_1127032 ">
+<a href="/karriere/ueber-uns/artificial-intelligence/filme/" >Filme</a>
+</li>
+</ul>
+</li>
+<li class="nav_978383 ">
+<a href="/karriere/ueber-uns/standorte/" >Standorte</a>
+</li>
+<li class="nav_980542 has-children">
+<a href="/karriere/ueber-uns/events/" >Events </a>
+</li>
+</ul>
+</li>
+<li class="nav_979580 has-children">
+<a href="/karriere/schueler/" >Schüler</a>
+<ul>
+<li class="index "><a href="/karriere/schueler/">Übersicht</a></li>
+<li class="nav_979751 has-children">
+<a href="/karriere/schueler/ausbildung/" >Ausbildung</a>
+<ul>
+<li class="index "><a href="/karriere/schueler/ausbildung/">Übersicht</a></li>
+<li class="nav_979748 ">
+<a href="/karriere/schueler/ausbildung/ausbildung-allgemein/" >Ausbildung im Detail</a>
+</li>
+<li class="nav_1037837 ">
+<a href="/karriere/schueler/ausbildung/technische-berufsausbildung/" >Technische Berufsausbildung</a>
+</li>
+<li class="nav_1037838 ">
+<a href="/karriere/schueler/ausbildung/kaufmaennische-berufsausbildung/" >Kaufmännische Berufsausbildung</a>
+</li>
+<li class="nav_980306 ">
+<a href="/karriere/schueler/ausbildung/ausbildungsstandorte/" >Unsere Ausbildungsstandorte</a>
+</li>
+</ul>
+</li>
+<li class="nav_979529 has-children">
+<a href="/karriere/schueler/duales-studium/" >Duales Studium</a>
+<ul>
+<li class="index "><a href="/karriere/schueler/duales-studium/">Übersicht</a></li>
+<li class="nav_979526 ">
+<a href="/karriere/schueler/duales-studium/duales-studium-allgemein/" >Duales Studium im Detail</a>
+</li>
+<li class="nav_979527 ">
+<a href="/karriere/schueler/duales-studium/voraussetzungen-und-bewerbungsprozess/" >Bewerbungsprozess</a>
+</li>
+<li class="nav_979528 ">
+<a href="/karriere/schueler/duales-studium/technische-studiengaenge/" >Technische Studiengänge</a>
+</li>
+<li class="nav_979562 ">
+<a href="/karriere/schueler/duales-studium/kaufmaennische-studiengaenge/" >Kaufmännische Studiengänge</a>
+</li>
+</ul>
+</li>
+<li class="nav_1027567 ">
+<a href="/karriere/schueler/schuelerpraktikum/" >Schülerpraktikum</a>
+</li>
+<li class="nav_991621 ">
+<a href="/karriere/schueler/bewerbungstipps/" >Bewerbungstipps </a>
+</li>
+<li class="nav_1016993 ">
+<a href="/karriere/schueler/ferienjobs/" >Ferienjobs</a>
+</li>
+</ul>
+</li>
+<li class="nav_979623 has-children">
+<a href="/karriere/studenten/" >Studenten</a>
+<ul>
+<li class="index "><a href="/karriere/studenten/">Übersicht</a></li>
+<li class="nav_1010492 ">
+<a href="/karriere/studenten/praktikum/" >Praktikum</a>
+</li>
+<li class="nav_979620 ">
+<a href="/karriere/studenten/abschlussarbeit/" >Abschlussarbeit</a>
+</li>
+<li class="nav_979624 ">
+<a href="/karriere/studenten/werkstudenten/" >Werkstudenten</a>
+</li>
+<li class="nav_979621 ">
+<a href="/karriere/studenten/daimler-student-partnership/" >Daimler Student Partnership</a>
+</li>
+<li class="nav_1015963 ">
+<a href="/karriere/studenten/ferienjobs/" >Ferienjobs</a>
+</li>
+</ul>
+</li>
+<li class="nav_1036115 has-children">
+<a href="/karriere/absolventen/" >Absolventen</a>
+<ul>
+<li class="index "><a href="/karriere/absolventen/">Übersicht</a></li>
+<li class="nav_1085075 has-children">
+<a href="/karriere/absolventen/inspire/" >INspire</a>
+<ul>
+<li class="index "><a href="/karriere/absolventen/inspire/">Übersicht</a></li>
+<li class="nav_1036108 has-children">
+<a href="/karriere/absolventen/inspire/leaders-lab/" >Leaders&#39; Lab</a>
+<ul>
+<li class="index "><a href="/karriere/absolventen/inspire/leaders-lab/">Übersicht</a></li>
+<li class="nav_1036100 ">
+<a href="/karriere/absolventen/inspire/was-ist-inspire/" >Was ist the Leaders&#39; Lab?</a>
+</li>
+<li class="nav_1036101 ">
+<a href="/karriere/absolventen/inspire/was-ist-fuer-sie-drin/" >Was ist für Sie drIN?</a>
+</li>
+<li class="nav_1036103 ">
+<a href="/karriere/absolventen/inspire/wen-wir-suchen/" >Wen suchen wir?</a>
+</li>
+<li class="nav_1036105 ">
+<a href="/karriere/absolventen/inspire/leaders-lab/wie-koennen-sie-sich-bewerben/" >Wie können Sie sich bewerben?</a>
+</li>
+</ul>
+</li>
+<li class="nav_1085053 has-children">
+<a href="/karriere/absolventen/inspire/inspire-the-next-generation-retail/" >Next Generation Retail</a>
+<ul>
+<li class="index "><a href="/karriere/absolventen/inspire/inspire-the-next-generation-retail/">Übersicht</a></li>
+<li class="nav_1085061 ">
+<a href="/karriere/absolventen/inspire/inspire-the-next-generation-retail/was-ist-inspire-the-next-generation-retail/" >Was ist the Next Generation Retail?</a>
+</li>
+<li class="nav_1085064 ">
+<a href="/karriere/absolventen/inspire/inspire-the-next-generation-retail/was-ist-fuer-sie-drin/" >Was ist für Sie drIN?</a>
+</li>
+<li class="nav_1085065 ">
+<a href="/karriere/absolventen/inspire/inspire-the-next-generation-retail/wen-wir-suchen/" >Wen suchen wir?</a>
+</li>
+<li class="nav_1085066 ">
+<a href="/karriere/absolventen/inspire/inspire-the-next-generation-retail/wie-koennen-sie-sich-bewerben/" >Wie können Sie sich bewerben?</a>
+</li>
+</ul>
+</li>
+<li class="nav_1085054 has-children">
+<a href="/karriere/absolventen/inspire/inspire-the-mobility-lab/" >Mobility Lab</a>
+<ul>
+<li class="index "><a href="/karriere/absolventen/inspire/inspire-the-mobility-lab/">Übersicht</a></li>
+<li class="nav_1085071 ">
+<a href="/karriere/absolventen/inspire/inspire-the-mobility-lab/was-ist-inspire-the-mobility-lab/" >Was ist the Mobility Lab?</a>
+</li>
+<li class="nav_1085072 ">
+<a href="/karriere/absolventen/inspire/inspire-the-mobility-lab/was-ist-fuer-sie-drin/" >Was ist für Sie drIN?</a>
+</li>
+<li class="nav_1085073 ">
+<a href="/karriere/absolventen/inspire/inspire-the-mobility-lab/wen-wir-suchen/" >Wen suchen wir?</a>
+</li>
+<li class="nav_1085074 ">
+<a href="/karriere/absolventen/inspire/inspire-the-mobility-lab/wie-koennen-sie-sich-bewerben/" >Wie können Sie sich bewerben?</a>
+</li>
+</ul>
+</li>
+<li class="nav_1091042 has-children">
+<a href="/karriere/absolventen/inspire/inspire-the-trucks-buses-experience/" >Trucks &amp; Buses Experience Programs</a>
+<ul>
+<li class="index "><a href="/karriere/absolventen/inspire/inspire-the-trucks-buses-experience/">Übersicht</a></li>
+<li class="nav_1091046 ">
+<a href="/karriere/absolventen/inspire/inspire-the-trucks-buses-experience/das-experten-programm/" >Expert Track</a>
+</li>
+<li class="nav_1091045 ">
+<a href="/karriere/absolventen/inspire/inspire-the-trucks-buses-experience/das-leadership-talent-programm/" >Leadership Talent Track</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav_979848 ">
+<a href="/karriere/absolventen/promotion/" >Promotion</a>
+</li>
+<li class="nav_979846 ">
+<a href="/karriere/absolventen/direkteinstieg/" >Direkteinstieg</a>
+</li>
+</ul>
+</li>
+<li class="nav_979717 has-children">
+<a href="/karriere/berufserfahrene/" >Berufserfahrene</a>
+<ul>
+<li class="index "><a href="/karriere/berufserfahrene/">Übersicht</a></li>
+<li class="nav_979705 ">
+<a href="/karriere/berufserfahrene/direkteinstieg/" >Direkteinstieg</a>
+</li>
+<li class="nav_1070185 has-children">
+<a href="/karriere/berufserfahrene/mercedes-benz-management-consulting/" >Mercedes-Benz Management Consulting</a>
+<ul>
+<li class="index "><a href="/karriere/berufserfahrene/mercedes-benz-management-consulting/">Übersicht</a></li>
+<li class="nav_1070187 ">
+<a href="/karriere/berufserfahrene/mercedes-benz-management-consulting/mbmc.html" >Wer sind wir?</a>
+</li>
+<li class="nav_1070186 ">
+<a href="/karriere/berufserfahrene/mercedes-benz-management-consulting/benefits.html" >Was bieten wir?</a>
+</li>
+<li class="nav_1071902 ">
+<a href="/karriere/berufserfahrene/mercedes-benz-management-consulting/projekte.html" >Was machen wir?</a>
+</li>
+<li class="nav_1070190 ">
+<a href="/karriere/berufserfahrene/mercedes-benz-management-consulting/bewerber.html" >Wen suchen wir?</a>
+</li>
+</ul>
+</li>
+<li class="nav_1096944 ">
+<a href="/karriere/berufserfahrene/karriere-im-autohaus/" > Autohaus</a>
+</li>
+</ul>
+</li>
+<li class="nav_980203 has-children">
+<a href="/karriere/jobsuche/" >Jobsuche </a>
+<ul>
+<li class="index "><a href="/karriere/jobsuche/">Übersicht</a></li>
+<li class="nav_979967 ">
+<a href="/karriere/jobsuche/job-newsletter/" >Job-Newsletter</a>
+</li>
+<li class="nav_979966 ">
+<a href="/karriere/jobsuche/merkliste/" >Merkliste</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav_1009810 has-children">
+<a href="/investoren/" >Investoren</a>
+<ul>
+<li class="index "><a href="/investoren/">Übersicht</a></li>
+<li class="nav_992992 has-children">
+<a href="/investoren/aktie/" >Aktie</a>
+<ul>
+<li class="index "><a href="/investoren/aktie/">Übersicht</a></li>
+<li class="nav_981049 ">
+<a href="/investoren/aktie/ausblick/" >Ausblick</a>
+</li>
+<li class="nav_980898 ">
+<a href="/investoren/aktie/dividende/" >Dividende</a>
+</li>
+<li class="nav_980893 ">
+<a href="/investoren/aktie/aktionaersstruktur/" >Aktionärsstruktur</a>
+</li>
+<li class="nav_980895 ">
+<a href="/investoren/aktie/analysten/" >Analysten</a>
+</li>
+<li class="nav_992993 ">
+<a href="/investoren/aktie/nachhaltigkeit/" >Nachhaltigkeit</a>
+</li>
+</ul>
+</li>
+<li class="nav_1054488 has-children">
+<a href="/investoren/berichte-news/" >Berichte &amp; News</a>
+<ul>
+<li class="index "><a href="/investoren/berichte-news/">Übersicht</a></li>
+<li class="nav_993239 has-children">
+<a href="/investoren/berichte-news/geschaeftsberichte/" >Geschäftsberichte</a>
+<ul>
+<li class="index "><a href="/investoren/berichte-news/geschaeftsberichte/">Übersicht</a></li>
+<li class="nav_1130257 ">
+<a href="/investoren/berichte-news/geschaeftsberichte/2019/" >2019</a>
+</li>
+<li class="nav_1080444 ">
+<a href="/investoren/berichte-news/geschaeftsberichte/2018/" >2018</a>
+</li>
+<li class="nav_1029636 ">
+<a href="/investoren/berichte-news/geschaeftsberichte/2017/" >2017</a>
+</li>
+<li class="nav_1012231 ">
+<a href="/investoren/berichte-news/geschaeftsberichte/2016/" >2016</a>
+</li>
+<li class="nav_996607 ">
+<a href="/investoren/berichte-news/geschaeftsberichte/2015/" >2015</a>
+</li>
+<li class="nav_981516 ">
+<a href="/investoren/berichte-news/geschaeftsberichte/2014/" >2014</a>
+</li>
+<li class="nav_981514 ">
+<a href="/investoren/berichte-news/geschaeftsberichte/2013/" >2013</a>
+</li>
+</ul>
+</li>
+<li class="nav_1157740 has-children">
+<a href="/investoren/berichte-news/zwischenberichte/2020/q2/" >Zwischenberichte</a>
+<ul>
+<li class="index "><a href="/investoren/berichte-news/zwischenberichte/2020/q2/">Übersicht</a></li>
+<li class="nav_1157740 has-children">
+<a href="/investoren/berichte-news/zwischenberichte/2020/q2/" >2020</a>
+<ul>
+<li class="index "><a href="/investoren/berichte-news/zwischenberichte/2020/q2/">Übersicht</a></li>
+<li class="nav_1157740 ">
+<a href="/investoren/berichte-news/zwischenberichte/2020/q2/" >Q2</a>
+</li>
+<li class="nav_1157741 ">
+<a href="/investoren/berichte-news/zwischenberichte/2020/q1/" >Q1</a>
+</li>
+<li class="nav_1157327 ">
+<a href="/investoren/berichte-news/zwischenberichte/2020/methodik/" >Methodik</a>
+</li>
+</ul>
+</li>
+<li class="nav_1122416 has-children">
+<a href="/investoren/berichte-news/zwischenberichte/2019/q3/" >2019</a>
+<ul>
+<li class="index "><a href="/investoren/berichte-news/zwischenberichte/2019/q3/">Übersicht</a></li>
+<li class="nav_1122416 ">
+<a href="/investoren/berichte-news/zwischenberichte/2019/q3/" >Q3</a>
+</li>
+<li class="nav_1109735 ">
+<a href="/investoren/berichte-news/zwischenberichte/2019/q2/" >Q2</a>
+</li>
+<li class="nav_1085647 ">
+<a href="/investoren/berichte-news/zwischenberichte/2019/q1/" >Q1</a>
+</li>
+</ul>
+</li>
+<li class="nav_1038740 has-children">
+<a href="/investoren/berichte-news/zwischenberichte/2018/q3/" >2018</a>
+<ul>
+<li class="index "><a href="/investoren/berichte-news/zwischenberichte/2018/q3/">Übersicht</a></li>
+<li class="nav_1038740 ">
+<a href="/investoren/berichte-news/zwischenberichte/2018/q3/" >Q3</a>
+</li>
+<li class="nav_1038739 ">
+<a href="/investoren/berichte-news/zwischenberichte/2018/q2/" >Q2</a>
+</li>
+<li class="nav_1038738 ">
+<a href="/investoren/berichte-news/zwischenberichte/2018/q1/" >Q1</a>
+</li>
+</ul>
+</li>
+<li class="nav_1013501 has-children">
+<a href="/investoren/berichte-news/zwischenberichte/2017/q3/" >2017</a>
+<ul>
+<li class="index "><a href="/investoren/berichte-news/zwischenberichte/2017/q3/">Übersicht</a></li>
+<li class="nav_1013501 ">
+<a href="/investoren/berichte-news/zwischenberichte/2017/q3/" >Q3</a>
+</li>
+<li class="nav_1013500 ">
+<a href="/investoren/berichte-news/zwischenberichte/2017/q2/" >Q2</a>
+</li>
+<li class="nav_1013499 ">
+<a href="/investoren/berichte-news/zwischenberichte/2017/q1/" >Q1</a>
+</li>
+</ul>
+</li>
+<li class="nav_1004376 has-children">
+<a href="/investoren/berichte-news/zwischenberichte/2016/q3/" >2016</a>
+<ul>
+<li class="index "><a href="/investoren/berichte-news/zwischenberichte/2016/q3/">Übersicht</a></li>
+<li class="nav_1004376 ">
+<a href="/investoren/berichte-news/zwischenberichte/2016/q3/" >Q3</a>
+</li>
+<li class="nav_1001116 ">
+<a href="/investoren/berichte-news/zwischenberichte/2016/q2/" >Q2</a>
+</li>
+<li class="nav_997837 ">
+<a href="/investoren/berichte-news/zwischenberichte/2016/q1/" >Q1</a>
+</li>
+</ul>
+</li>
+<li class="nav_988030 has-children">
+<a href="/investoren/berichte-news/zwischenberichte/2015/q3/" >2015</a>
+<ul>
+<li class="index "><a href="/investoren/berichte-news/zwischenberichte/2015/q3/">Übersicht</a></li>
+<li class="nav_988030 ">
+<a href="/investoren/berichte-news/zwischenberichte/2015/q3/" >Q3</a>
+</li>
+<li class="nav_987374 ">
+<a href="/investoren/berichte-news/zwischenberichte/2015/q2/" >Q2</a>
+</li>
+<li class="nav_982431 ">
+<a href="/investoren/berichte-news/zwischenberichte/2015/q1/" >Q1</a>
+</li>
+</ul>
+</li>
+<li class="nav_981549 has-children">
+<a href="/investoren/berichte-news/zwischenberichte/2014/q3/" >2014</a>
+<ul>
+<li class="index "><a href="/investoren/berichte-news/zwischenberichte/2014/q3/">Übersicht</a></li>
+<li class="nav_981549 ">
+<a href="/investoren/berichte-news/zwischenberichte/2014/q3/" >Q3</a>
+</li>
+<li class="nav_981548 ">
+<a href="/investoren/berichte-news/zwischenberichte/2014/q2/" >Q2</a>
+</li>
+<li class="nav_981547 ">
+<a href="/investoren/berichte-news/zwischenberichte/2014/q1/" >Q1</a>
+</li>
+</ul>
+</li>
+<li class="nav_981545 has-children">
+<a href="/investoren/berichte-news/zwischenberichte/2013/q3/" >2013</a>
+<ul>
+<li class="index "><a href="/investoren/berichte-news/zwischenberichte/2013/q3/">Übersicht</a></li>
+<li class="nav_981545 ">
+<a href="/investoren/berichte-news/zwischenberichte/2013/q3/" >Q3</a>
+</li>
+<li class="nav_981544 ">
+<a href="/investoren/berichte-news/zwischenberichte/2013/q2/" >Q2</a>
+</li>
+<li class="nav_981543 ">
+<a href="/investoren/berichte-news/zwischenberichte/2013/q1/" >Q1</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav_993236 ">
+<a href="/investoren/berichte-news/ad-hoc/" >Ad hoc</a>
+</li>
+<li class="nav_993237 ">
+<a href="/investoren/berichte-news/stimmrechtsmitteilungen/" >Stimmrechtsmitteilungen</a>
+</li>
+<li class="nav_993036 ">
+<a href="/investoren/berichte-news/finanznachrichten/" >Finanznachrichten</a>
+</li>
+</ul>
+</li>
+<li class="nav_996453 has-children">
+<a href="/investoren/refinanzierung/" >Refinanzierung</a>
+<ul>
+<li class="index "><a href="/investoren/refinanzierung/">Übersicht</a></li>
+<li class="nav_981043 ">
+<a href="/investoren/refinanzierung/finanzmanagement/" >Finanzmanagement</a>
+</li>
+<li class="nav_981047 ">
+<a href="/investoren/refinanzierung/rating/" >Rating</a>
+</li>
+<li class="nav_981048 has-children">
+<a href="/investoren/refinanzierung/anleihen/" >Anleihen</a>
+<ul>
+<li class="index "><a href="/investoren/refinanzierung/anleihen/">Übersicht</a></li>
+<li class="nav_1121959 ">
+<a href="/investoren/refinanzierung/anleihen/emtn-programm/" >EMTN Programm</a>
+</li>
+<li class="nav_981041 ">
+<a href="/investoren/refinanzierung/anleihen/anleihenuebersicht/" >Anleihenübersicht</a>
+</li>
+<li class="nav_1016276 has-children">
+<a href="/investoren/refinanzierung/anleihen/issuers-reports/italia/" >Issuers&#39; Reports</a>
+<ul>
+<li class="index "><a href="/investoren/refinanzierung/anleihen/issuers-reports/italia/">Übersicht</a></li>
+<li class="nav_1016276 ">
+<a href="/investoren/refinanzierung/anleihen/issuers-reports/italia/" >Italia</a>
+</li>
+<li class="nav_1016277 ">
+<a href="/investoren/refinanzierung/anleihen/issuers-reports/international-finance/" >International Finance</a>
+</li>
+<li class="nav_1016278 ">
+<a href="/investoren/refinanzierung/anleihen/issuers-reports/canada/" >Canada</a>
+</li>
+<li class="nav_1016279 ">
+<a href="/investoren/refinanzierung/anleihen/issuers-reports/north-america/" >North America</a>
+</li>
+<li class="nav_1016280 ">
+<a href="/investoren/refinanzierung/anleihen/issuers-reports/australia-pacific/" >Australia/Pacific</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav_1164061 ">
+<a href="/investoren/refinanzierung/gruene-finanzierung/" >Grüne Finanzierung</a>
+</li>
+<li class="nav_996450 has-children">
+<a href="/investoren/refinanzierung/asset-backed-securities/" >Asset-Backed-Securities</a>
+<ul>
+<li class="index "><a href="/investoren/refinanzierung/asset-backed-securities/">Übersicht</a></li>
+<li class="nav_996448 ">
+<a href="/investoren/refinanzierung/asset-backed-securities/usa/" >USA</a>
+</li>
+<li class="nav_998373 ">
+<a href="/investoren/refinanzierung/asset-backed-securities/deutschland/" >Deutschland</a>
+</li>
+<li class="nav_998384 ">
+<a href="/investoren/refinanzierung/asset-backed-securities/kanada/" >Kanada</a>
+</li>
+<li class="nav_998388 ">
+<a href="/investoren/refinanzierung/asset-backed-securities/china/" >China</a>
+</li>
+<li class="nav_1028807 ">
+<a href="/investoren/refinanzierung/asset-backed-securities/grossbritannien/" >Großbritannien</a>
+</li>
+<li class="nav_1115652 ">
+<a href="/investoren/refinanzierung/asset-backed-securities/italien/" >Italien</a>
+</li>
+<li class="nav_1135049 ">
+<a href="/investoren/refinanzierung/asset-backed-securities/australien/" >Australien</a>
+</li>
+<li class="nav_1564483 ">
+<a href="/investoren/refinanzierung/asset-backed-securities/korea/" >Korea</a>
+</li>
+</ul>
+</li>
+<li class="nav_996452 ">
+<a href="/investoren/refinanzierung/cp-programme/" >CP-Programme</a>
+</li>
+</ul>
+</li>
+<li class="nav_1146630 has-children">
+<a href="/investoren/kennzahlen/" >Kennzahlen</a>
+<ul>
+<li class="index "><a href="/investoren/kennzahlen/">Übersicht</a></li>
+<li class="nav_981781 ">
+<a href="/investoren/kennzahlen/konzern/" >Konzern</a>
+</li>
+<li class="nav_986118 has-children">
+<a href="/investoren/kennzahlen/geschaeftsfelder/" >Geschäftsfelder</a>
+<ul>
+<li class="index "><a href="/investoren/kennzahlen/geschaeftsfelder/">Übersicht</a></li>
+<li class="nav_1034965 ">
+<a href="/investoren/kennzahlen/geschaeftsfelder/pkw-absatz/" >Monatlicher Absatz Pkw und Vans </a>
+</li>
+</ul>
+</li>
+<li class="nav_1035009 ">
+<a href="/investoren/kennzahlen/maerkte/" >Wichtigste Märkte</a>
+</li>
+<li class="nav_993241 ">
+<a href="/investoren/kennzahlen/fact-sheets/" >Fact Sheets</a>
+</li>
+<li class="nav_1159589 has-children">
+<a href="/investoren/kennzahlen/vorjahr/konzern/" >Vorjahr</a>
+<ul>
+<li class="index "><a href="/investoren/kennzahlen/vorjahr/konzern/">Übersicht</a></li>
+<li class="nav_1159589 ">
+<a href="/investoren/kennzahlen/vorjahr/konzern/" >Konzern</a>
+</li>
+<li class="nav_1159590 ">
+<a href="/investoren/kennzahlen/vorjahr/geschaeftsfelder/" >Geschäftsfelder</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav_982440 has-children">
+<a href="/investoren/events/" >Events</a>
+<ul>
+<li class="index "><a href="/investoren/events/">Übersicht</a></li>
+<li class="nav_1035620 ">
+<a href="/investoren/events/roadshows/" >Roadshows</a>
+</li>
+<li class="nav_987382 ">
+<a href="/investoren/events/finanzkalender/" >Finanzkalender</a>
+</li>
+<li class="nav_1120838 has-children">
+<a href="/investoren/events/hauptversammlungen/2020/" >Hauptversammlungen</a>
+<ul>
+<li class="index "><a href="/investoren/events/hauptversammlungen/2020/">Übersicht</a></li>
+<li class="nav_1120838 ">
+<a href="/investoren/events/hauptversammlungen/2020/" >2020</a>
+</li>
+<li class="nav_1055561 ">
+<a href="/investoren/events/hauptversammlungen/2019/" >2019</a>
+</li>
+<li class="nav_1019840 ">
+<a href="/investoren/events/hauptversammlungen/2018/" >2018</a>
+</li>
+<li class="nav_995099 ">
+<a href="/investoren/events/hauptversammlungen/2017/" >2017</a>
+</li>
+<li class="nav_1001299 ">
+<a href="/investoren/events/hauptversammlungen/2016/" >2016</a>
+</li>
+<li class="nav_996416 ">
+<a href="/investoren/events/hauptversammlungen/2015/" >2015</a>
+</li>
+<li class="nav_986166 ">
+<a href="/investoren/events/hauptversammlungen/2014/" >2014</a>
+</li>
+<li class="nav_986165 ">
+<a href="/investoren/events/hauptversammlungen/2013/" >2013</a>
+</li>
+</ul>
+</li>
+<li class="nav_993697 ">
+<a href="/investoren/events/kapitalmarkttage/" >Kapitalmarkttage</a>
+</li>
+<li class="nav_993557 ">
+<a href="/investoren/events/praesentationen/" >Präsentationen</a>
+</li>
+</ul>
+</li>
+<li class="nav_1000026 ">
+<a href="/investoren/ueber-uns/" >Über uns </a>
+</li>
+<li class="nav_981583 has-children">
+<a href="/investoren/services/" >Services</a>
+<ul>
+<li class="index "><a href="/investoren/services/">Übersicht</a></li>
+<li class="nav_1113756 ">
+<a href="/investoren/services/mediathek/" >Mediathek</a>
+</li>
+<li class="nav_981580 has-children">
+<a href="/investoren/services/fragen-antworten/aktie/" >Fragen &amp; Antworten</a>
+<ul>
+<li class="index "><a href="/investoren/services/fragen-antworten/aktie/">Übersicht</a></li>
+<li class="nav_981580 ">
+<a href="/investoren/services/fragen-antworten/aktie/" >Aktie</a>
+</li>
+<li class="nav_1124854 ">
+<a href="/investoren/services/fragen-antworten/dividende/" >Dividende</a>
+</li>
+<li class="nav_1131978 ">
+<a href="/investoren/services/fragen-antworten/konzernstruktur/" >Konzernstruktur</a>
+</li>
+</ul>
+</li>
+<li class="nav_981581 ">
+<a href="/investoren/services/kontakt/" >Kontakt</a>
+</li>
+<li class="nav_981577 ">
+<a href="/investoren/services/e-service/" >e-service</a>
+</li>
+<li class="nav_981582 ">
+<a href="/investoren/services/newsletter/" >Newsletter</a>
+</li>
+<li class="nav_981576 ">
+<a href="/investoren/services/bestellservice/" >Bestellservice</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav_983095 ">
+<a href="/presse/" >Presse</a>
+</li>
+<li class="nav_1135566 has-children">
+<a href="/magazin/" >Magazin</a>
+<ul>
+<li class="index "><a href="/magazin/">Übersicht</a></li>
+<li class="nav_1135572 ">
+<a href="/magazin/#1135587" >Mobilität</a>
+</li>
+<li class="nav_1135571 ">
+<a href="/magazin/#1135588" >Technologie &amp; Innovation</a>
+</li>
+<li class="nav_1135574 ">
+<a href="/magazin/#1135589" >Nachhaltigkeit</a>
+</li>
+<li class="nav_1135573 ">
+<a href="/magazin/#1135590" >Berufsleben</a>
+</li>
+<li class="nav_1135575 ">
+<a href="/magazin/#1135567" >Kultur</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<!-- ======================= Offcanvas Navigation END ========================-->
+<!-- ======================= 2nd Level Navigation ============================-->
+<!-- FUNNEL -->
+<div class="container-fluid lvl2-nav-wrapper" id="lvl2Nav">
+<div class="row">
+<div class="lvl2-nav-content">
+<div class="funnel">
+<button class="hidden-md hidden-lg offcanvas-trigger lines-button x" aria-label="Toggle Navigation" role="button" type="button"><span class="lines"></span></button>
+<button class="hidden-xs hidden-sm funnel-trigger lines-button x" aria-label="Toggle Navigation" role="button" type="button"><span class="lines"></span></button>
+<a class="hidden-xs hidden-sm btn lvl-indicator" href="/magazin/" ><span class="nav-section">Magazin</span><span class="indicator"></span></a>
+</div>
+<div class="navigation hidden-xs hidden-sm">
+<ul>
+<li><a href="/magazin/#1135587" target="_self">Mobilität</a></li>
+<li><a href="/magazin/#1135588" target="_self">Technologie & Innovation</a></li>
+<li><a href="/magazin/#1135589" target="_self">Nachhaltigkeit</a></li>
+<li><a href="/magazin/#1135590" target="_self">Berufsleben</a></li>
+<li><a href="/magazin/#1135567" target="_self">Kultur</a></li>
+</ul>
+</div>
+<div class="search">
+<button type="button" role="button" aria-label="Toggle Search" class="search-trigger search-button x"><span class="search-icon"></span></button>
+</div>
+</div>
+</div>
+</div> <!-- *** div lvl2Nav - 2nd level navigation end *** //-->
+<!-- =================== Dropdown Overview Navigation ====================-->
+<div class="container-fluid hidden-xs hidden-sm funnel-nav-wrapper calc-height" id="funnelNav">
+<div class="funnel-nav-content">
+<div class="funnel-nav-headline">
+<p><a href="/de/" target="_self">Startseite</a></p>
+</div>
+
+
+	
+
+<div class="funnel-nav-section-wrapper">
+<div class="funnel-nav-section nav_986782">
+<p class="section-head"><a href="/konzern/" >Konzern</a></p>
+<ul>
+<li><a class="nav_983243" href="/konzern/strategie/" >Strategie</a></li>
+<li><a class="nav_981122" href="/konzern/geschaeftsfelder/" >Geschäftsfelder</a></li>
+<li><a class="nav_981590" href="/konzern/corporate-governance/" >Unternehmensführung</a></li>
+<li><a class="nav_980927" href="/konzern/compliance/" >Compliance</a></li>
+<li><a class="nav_981128" href="/konzern/tradition/" >Tradition</a></li>
+<li><a class="nav_981124" href="/karriere/ueber-uns/standorte/" target="_blank" rel="noopener noreferrer">Standorte</a></li>
+</ul>
+</div>
+<div class="funnel-nav-section nav_987045">
+<p class="section-head"><a href="/produkte/" >Produkte</a></p>
+<ul>
+<li><a class="nav_993341" href="/produkte/pkw/" >Pkw</a></li>
+<li><a class="nav_993357" href="/produkte/lkw/" >Lkw</a></li>
+<li><a class="nav_982236" href="/produkte/transporter/" >Transporter</a></li>
+<li><a class="nav_993363" href="/produkte/busse/" >Busse</a></li>
+<li><a class="nav_994276" href="/produkte/services/" >Services</a></li>
+</ul>
+</div>
+<div class="funnel-nav-section nav_1015070">
+<p class="section-head"><a href="/innovation/" >Innovation</a></p>
+<ul>
+<li><a class="nav_1137077" href="/innovation/antriebe/" >Antriebe</a></li>
+<li><a class="nav_1027078" href="/innovation/venture/" >Partnerschaften</a></li>
+<li><a class="nav_1137083" href="/innovation/digitalisierung/" >Digitalisierung</a></li>
+<li><a class="nav_1137084" href="/innovation/produktinnovation/" >Produktinnovation</a></li>
+</ul>
+</div>
+<div class="funnel-nav-section nav_1015087">
+<p class="section-head"><a href="/nachhaltigkeit/" >Nachhaltigkeit</a></p>
+<ul>
+<li><a class="nav_1044901" href="/nachhaltigkeit/klima/" >Klima</a></li>
+<li><a class="nav_1044923" href="/nachhaltigkeit/ressourcen/" >Ressourcen</a></li>
+<li><a class="nav_1132766" href="/nachhaltigkeit/staedte/" >Städte</a></li>
+<li><a class="nav_1044927" href="/nachhaltigkeit/sicherheit/" >Sicherheit</a></li>
+<li><a class="nav_1132843" href="/nachhaltigkeit/daten/" >Daten</a></li>
+<li><a class="nav_1132855" href="/nachhaltigkeit/menschenrechte/" >Menschenrechte</a></li>
+<li><a class="nav_1129997" href="/nachhaltigkeit/grundlagen/" >Grundlagen</a></li>
+</ul>
+</div>
+<div class="funnel-nav-section nav_980251">
+<p class="section-head"><a href="/karriere/" >Karriere</a></p>
+<ul>
+<li><a class="nav_979463" href="/karriere/ueber-uns/" >Über uns</a></li>
+<li><a class="nav_979580" href="/karriere/schueler/" >Schüler</a></li>
+<li><a class="nav_979623" href="/karriere/studenten/" >Studenten</a></li>
+<li><a class="nav_1036115" href="/karriere/absolventen/" >Absolventen</a></li>
+<li><a class="nav_979717" href="/karriere/berufserfahrene/" >Berufserfahrene</a></li>
+<li><a class="nav_980203" href="/karriere/jobsuche/" >Jobsuche </a></li>
+</ul>
+</div>
+<div class="funnel-nav-section nav_1009810">
+<p class="section-head"><a href="/investoren/" >Investoren</a></p>
+<ul>
+<li><a class="nav_992992" href="/investoren/aktie/" >Aktie</a></li>
+<li><a class="nav_1054488" href="/investoren/berichte-news/" >Berichte & News</a></li>
+<li><a class="nav_996453" href="/investoren/refinanzierung/" >Refinanzierung</a></li>
+<li><a class="nav_1146630" href="/investoren/kennzahlen/" >Kennzahlen</a></li>
+<li><a class="nav_982440" href="/investoren/events/" >Events</a></li>
+<li><a class="nav_1000026" href="/investoren/ueber-uns/" >Über uns </a></li>
+<li><a class="nav_981583" href="/investoren/services/" >Services</a></li>
+</ul>
+</div>
+</div>
+<div class="funnel-nav-section-wrapper">
+<div class="funnel-nav-section nav_983095">
+<p class="section-head"><a href="/presse/" >Presse</a></p>
+</div>
+<div class="funnel-nav-section nav_1135566">
+<p class="section-head"><a href="/magazin/" >Magazin</a></p>
+<ul>
+<li><a class="nav_1135572" href="/magazin/#1135587" target="_blank" rel="noopener noreferrer">Mobilität</a></li>
+<li><a class="nav_1135571" href="/magazin/#1135588" target="_blank" rel="noopener noreferrer">Technologie & Innovation</a></li>
+<li><a class="nav_1135574" href="/magazin/#1135589" target="_blank" rel="noopener noreferrer">Nachhaltigkeit</a></li>
+<li><a class="nav_1135573" href="/magazin/#1135590" target="_blank" rel="noopener noreferrer">Berufsleben</a></li>
+<li><a class="nav_1135575" href="/magazin/#1135567" target="_blank" rel="noopener noreferrer">Kultur</a></li>
+</ul>
+</div>
+</div>
+<div class="funnel-nav-teaser-area">
+</div> <!-- *** div funnel-nav-teaser-area end *** //-->
+</div> <!-- *** div funnel-nav-content end *** //-->
+</div> <!-- *** div funnelNav - dropdown overview navigation end *** //-->
+<!-- =================== Dropdown Overview Navigation END ====================-->
+</nav>
+</header>
+<!-- /exclude -->
+<!-- MODUL "F01 - Header" END -->
+<!-- exclude -->
+<!-- ======================= Search ============================-->
+<div class="search-main-container calc-height" aria-hidden="true" id="search-container-main-search">
+<div class="container container-search">
+<form method="post" action="#" id="form-search" name="form-search" role="form">
+<fieldset>
+<legend class="hidden">Wonach suchen Sie?</legend>
+<div class="form-group search-input-container">
+<div class="input-group">
+<input type="text" placeholder="Wonach suchen Sie?" value="" id="input-search-main" name="input-search-main" class="form-control input-text input-width-full input-search">
+<span class="input-group-btn">
+<a title="Suchen" class="btn-search" href="#">
+<span data-picture data-alt="Suchen">
+<span data-src="/system/img/ic-search-field-main-md.png"></span>
+<span data-src="/system/img/ic-search-field-main-xs.png" data-media="(max-width: 767px)"></span>
+<noscript><img src="/system/img/ic-search-field-main-md.png" width="65" height="65" alt="Suchen"></noscript>
+</span>
+</a>
+</span>
+</div>
+</div>
+</fieldset>
+</form>
+<!-- MODUL "A07 - Suchfeld" END -->
+<div class="search-results">
+<!-- =================== No results found and frequent search terms ====================-->
+<!-- No results found -->
+<div class="search-no-results">
+<p class="search-result-suggestion">
+Meinten Sie: <span>{{suggestion}}</span>
+</p>
+<div class="no-results-message">
+<h3>{{count_search_result}} Suchergebnisse</h3>
+<p class="sub-headline">Es konnten leider keine Ergebnisse gefunden werden, die mit Ihrer Suchanfrage <span class="highlight-result">{{searchquery}}</span> übereinstimmen.</p>
+<p class="improvement-hint">Achten Sie darauf, dass alle Wörter richtig geschrieben sind.</p>
+<p class="improvement-hint">Probieren Sie es mit anderen Suchbegriffen</p>
+<p class="improvement-hint">Probieren Sie es mit allgemeinen Suchbegriffen.</p>
+</div>
+</div> <!-- *** div search-no-results end *** //-->
+<!-- =================== Tab navigation ===================== -->
+<div class="tab-module">
+<div id="tab-module-search-" class="horizontal-tab-module">
+<!-- Tab navigation: Tabs -->
+<ul class="resp-tabs-list hidden-lg hidden-md hidden-sm hidden-xs">
+<li class="nav-tab" id="all-tab">Alle Ergebnisse<span class="result-count"></span></li>
+</ul>
+<!-- Tab navigation: Tabs END -->
+<!-- *** div tab all *** //-->
+<div class="tab-container" id="all">
+<div class="row search-results-header">
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 search-results-options body-template-container pull-right">
+<a href="#search-filter-all" class="btn btn-toggle pull-right toggle-closed collapse-data-btn" data-target="#search-filter-all" role="button">Suchoptionen</a>
+</div>
+<div class="col-xs-12 col-sm-10 col-md-10 col-lg-11 search-results-filter body-template-container" id="search-filter-all">
+<!-- MODUL "Kategorie-Filter" START -->
+<div class="filter-category search-results-filter-single">
+<div class="dropdown">
+<a href="#" class="search-results-filter-label" data-target="#" data-toggle="dropdown" role="button" id="categoryLabel-all">Alle Kategorien</a>
+<ul aria-labelledby="categoryLabel" role="menu" class="dropdown-menu">
+</ul>
+</div>
+</div>
+<!-- MODUL "Kategorie-Filter" END -->
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-7 search-results-count body-template-container">
+<p><span>{{count}}</span> von {{total}} Ergebnissen</p>
+</div>
+</div> <!-- *** div row search-results-header end *** //-->
+<div class="search-results-group"></div>
+<!-- *** div search-results-group end *** //-->
+<!-- AJAX Loader - start -->
+<div class="content-loader dark" id="loader1"></div>
+<!-- AJAX Loader - end -->
+<div class="search-results-show-more">
+<a href="#" class="btn more-results">Weitere Ergebnisse anzeigen</a>
+</div>
+</div>
+<!-- *** div tab all end *** //-->
+</div>
+</div>
+<!-- =================== Tab navigation END ===================== -->
+</div> <!-- *** div search-results end *** //-->
+</div> <!-- *** div container-search end *** //-->
+</div> <!-- *** div search-main-container end *** //-->
+<!-- ======================= Search END ============================-->
+<!-- /exclude -->
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "BlogPosting",
+"image": "/bilder/magazin/nachhaltigkeit/2020-09-17-elektrofahrzeuge/titelbild-batteriespecial-copy-w1024xh1365.jpg",
+"url": "/magazin/nachhaltigkeit/batterie-elektroauto-reichweite.html",
+"headline": "Bin ich bereit für ein Elektroauto?",
+"dateCreated": "2020-00-17",
+"datePublished": "2020-00-17",
+"dateModified": "2020-00-17",
+"inLanguage": "de_DE",
+"publisher": {
+"@type": "Organization",
+"name": "Daimler",
+"logo": {
+"@type": "ImageObject",
+"url": "/system/img/img-logo-daimler-svg.svg"
+}
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Bauer",
+"url": "/magazin/autoren/bauer.html"
+},
+"mainEntityOfPage": "False",
+"genre": ["Mobilität"],
+"keywords": "Magazin, Elektromobilität, Nachhaltigkeit, Elektroauto, Ladeinfrastruktur, Daimler, Mercedes-Benz, EQC"
+}
+</script>
+<main class="magazine">
+<section class="stage">
+<div class="stage__content container">
+<span class="stage__title">
+<h1>Magazin für Mobilität und Gesellschaft</h1>
+</span>
+<a class="stage__teaser" href="/magazin/nachhaltigkeit/batterie-elektroauto-reichweite.html" aria-label="Bin ich bereit für ein Elektroauto?">
+<article>
+<p class="stage__teaserCategory">Elektrofahrzeuge</p>
+<p class="stage__teaserTitle">Bin ich bereit für ein Elektroauto?</p>
+<div class="stage__teaserMeta"><span class="stage__teaserAuthor">von Lisa Bauer · 17. September 2020</span></div>
+</article>
+</a>
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/nachhaltigkeit/2020-09-17-elektrofahrzeuge/titelbild-batteriespecial-copy-w768xh1024-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/nachhaltigkeit/2020-09-17-elektrofahrzeuge/titelbild-batteriespecial-copy-w1024xh1365.jpg"
+/>
+<img
+class="lazy stage__img"
+data-src="/bilder/magazin/nachhaltigkeit/2020-09-17-elektrofahrzeuge/titelbild-batteriespecial-copy-w1920xh1080-cutout.jpg"
+alt="Bin ich bereit für ein Elektroauto?"
+/>
+</picture>
+<a class="stage__scroll" href="#content" aria-label="mehr Inhalte">
+<div class="stage__scrollIcon">
+<svg class="stage__scrollIconImage" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<g transform="translate(-934 -977)">
+<g transform="translate(0 171)">
+<g transform="translate(873 806)">
+<path fill="#ffffff" class="st0" d="M87.8,43.9l13.4-13c0.7-0.7,1.9-0.7,2.6,0c0.7,0.7,0.7,1.8,0,2.5L87.3,49.5c-0.7,0.7-1.9,0.7-2.6,0L68.2,33.4c-0.7-0.7-0.7-1.8,0-2.5c0.7-0.7,1.9-0.7,2.6,0l13.4,13V1.8C84.2,0.8,85,0,86,0s1.8,0.8,1.8,1.8V43.9z" />
+</g>
+</g>
+</g>
+</svg>
+</div>
+<div class="stage__scrollText">mehr Inhalte</div>
+</a>
+</div>
+<div class="stage__bgTop"></div>
+<div class="stage__bgBottom"></div>
+</section>
+<span id="content"></span>
+<section class="container articleTeaserSection articleTeaserSection--highlight" id="1135587">
+<div class="container">
+<div class="row"></div>
+</div>
+<h2 class="col-12 col-md-10 col-xl-8 headline headline--stroke">Mobilität</h2>
+<div class="articleTeaserSection__teaserList">
+<ul class="articleTeaserSection__row row">
+<li class="articleTeaserSection__item col-12 col-sm-6 articleTeaser--large articleTeaser--first">
+<a class="articleTeaser" href="/magazin/mobilitaet/100-dinge-polizeiautos.html" aria-label="Dank Daimler sind deutsche Polizeiautos Silber">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/100-dinge/2020-03-12-polizeiautos/05-100-dinge-polizeiautos-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/100-dinge/2020-03-12-polizeiautos/05-100-dinge-polizeiautos-teaser-w335xh447-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/100-dinge/2020-03-12-polizeiautos/05-100-dinge-polizeiautos-teaser-w430xh573-cutout.jpg"
+alt="Dank Daimler sind deutsche Polizeiautos Silber"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">100 Dinge | #8</p>
+<h3 class="articleTeaser__title">Dank Daimler sind deutsche Polizeiautos Silber</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Bartek Langer · <nobr>12. März 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-5 offset-md-1 offset-lg-0 articleTeaser--small d-none d-sm-block">
+<a class="articleTeaser" href="/magazin/mobilitaet/unfallforschung-fahrzeugsicherheit.html" aria-label="Die Vermessung des Schicksals">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/mobilitaet/2020-02-20-die-vermessung-des-schicksals/01-unfallforschung-200219-titelbild-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/mobilitaet/2020-02-20-die-vermessung-des-schicksals/01-unfallforschung-200219-titelbild-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/mobilitaet/2020-02-20-die-vermessung-des-schicksals/01-unfallforschung-200219-titelbild-w289xh385-cutout.jpg"
+alt="Die Vermessung des Schicksals"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Unfallforschung</p>
+<h3 class="articleTeaser__title">Die Vermessung des Schicksals</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sven Sattler · <nobr>20. Februar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 articleTeaser--small d-none d-lg-block">
+<a class="articleTeaser" href="/magazin/mobilitaet/100-dinge-gelbe-schulbusse.html" aria-label="Die berühmten gelben Schulbusse sind von Daimler">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/mobilitaet/2020-02-13-100-dinge-gelbe-schulbusse/100-dinge-gelbe-schulbusse-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/mobilitaet/2020-02-13-100-dinge-gelbe-schulbusse/100-dinge-gelbe-schulbusse-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/mobilitaet/2020-02-13-100-dinge-gelbe-schulbusse/100-dinge-gelbe-schulbusse-teaser-w289xh385-cutout.jpg"
+alt="Die berühmten gelben Schulbusse sind von Daimler"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">100 Dinge | #6</p>
+<h3 class="articleTeaser__title">Die berühmten gelben Schulbusse sind von Daimler</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Kenyan Price · <nobr>13. Februar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/mobilitaet/suv-diskussion-umwelt.html" aria-label="Verdammt geliebt">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/mobilitaet/2020-02-06-suv-diskussion-umwelt/08-teaser-suv-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/mobilitaet/2020-02-06-suv-diskussion-umwelt/08-teaser-suv-w545xh727-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/mobilitaet/2020-02-06-suv-diskussion-umwelt/08-teaser-suv-w289xh385-cutout.jpg"
+alt="Verdammt geliebt"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">SUVs in der Diskussion</p>
+<h3 class="articleTeaser__title">Verdammt geliebt</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Christian Scholz · <nobr>06. Februar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/mobilitaet/caraoke-sammy-hagar.html" aria-label="“I can’t drive 55” von Sammy Hagar ">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/caraoke/2020-02-04-caraoke-6/caraoke-6-sammy-hager-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/caraoke/2020-02-04-caraoke-6/caraoke-6-sammy-hagar-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/caraoke/2020-02-04-caraoke-6/caraoke-6-sammy-hagar-teaser-w289xh385-cutout.jpg"
+alt="“I can’t drive 55” von Sammy Hagar "
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Car-aoke | #6</p>
+<h3 class="articleTeaser__title">“I can’t drive 55” von Sammy Hagar </h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Christian Scholz · <nobr>04. Februar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/mobilitaet/100-dinge-g-klasse-schoeckl.html" aria-label="G-Steil! Daimler schickt die G-Klasse auf den Grazer Hausberg">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/100-dinge/100dinge-04-teaser-g-klasse-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/100-dinge/100dinge-04-teaser-g-klasse-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/100-dinge/100dinge-04-teaser-g-klasse-w289xh385-cutout.jpg"
+alt="G-Steil! Daimler schickt die G-Klasse auf den Grazer Hausberg"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">100 Dinge | #4</p>
+<h3 class="articleTeaser__title">G-Steil! Daimler schickt die G-Klasse auf den Grazer Hausberg</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Cornelia Hentschel · <nobr>16. Januar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/mobilitaet/betriebliches-mobilitaetsmanagement-pendler.html" aria-label="Ein Pendler kommt (künftig) selten allein">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/mobilitaet/2020-01-09-betriebliches-mobilitaetsmanagement-pendler/01betriebliches-mobilitaetsmanagement-pendler-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/mobilitaet/2020-01-09-betriebliches-mobilitaetsmanagement-pendler/01betriebliches-mobilitaetsmanagement-pendler-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/mobilitaet/2020-01-09-betriebliches-mobilitaetsmanagement-pendler/01betriebliches-mobilitaetsmanagement-pendler-w289xh385-cutout.jpg"
+alt="Ein Pendler kommt (künftig) selten allein"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Betriebliches Mobilitätsmanagement</p>
+<h3 class="articleTeaser__title">Ein Pendler kommt (künftig) selten allein</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Pascal Thiel · <nobr>09. Januar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/mobilitaet/nachhaltigkeit-datenschutz-mobilitaet.html" aria-label="Auch Daten müssen sicher fahren">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/mobilitaet/2019-09-09-nachhaltigkeit-datenschutz-mobilitaet/header-daimler-nachhaltiger-umgang-mit-daten-1366x683-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/mobilitaet/2019-09-09-nachhaltigkeit-datenschutz-mobilitaet/header-daimler-nachhaltiger-umgang-mit-daten-1366x683-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/mobilitaet/2019-09-09-nachhaltigkeit-datenschutz-mobilitaet/header-daimler-nachhaltiger-umgang-mit-daten-1366x683-w289xh385-cutout.jpg"
+alt="Auch Daten müssen sicher fahren"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Datenschutz</p>
+<h3 class="articleTeaser__title">Auch Daten müssen sicher fahren</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Christian Scholz · <nobr>09. September 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/mobilitaet/reisekrankheit-kinetose-produktentwicklung.html" aria-label="Legt Euch hin! Die Bekämpfung der Reisekrankheit">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/mobilitaet/2019-10-24-reisekrankheit/2019-10-224-reisekrankheit-01-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/mobilitaet/2019-10-24-reisekrankheit/2019-10-224-reisekrankheit-01-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/mobilitaet/2019-10-24-reisekrankheit/2019-10-224-reisekrankheit-01-w289xh385-cutout.jpg"
+alt="Legt Euch hin! Die Bekämpfung der Reisekrankheit"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Kinetose</p>
+<h3 class="articleTeaser__title">Legt Euch hin! Die Bekämpfung der Reisekrankheit</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Dominique Bohrmann · <nobr>08. August 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/mobilitaet/sicherheit-auto-mercedes-esf.html" aria-label="Mobilität von morgen - mit Sicherheit voran">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/mobilitaet/2019-05-20-sicherheit-auto-mercedes-esf/01sicherheit-auto-mercedes-esf-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/mobilitaet/2019-05-20-sicherheit-auto-mercedes-esf/01sicherheit-auto-mercedes-esf-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/mobilitaet/2019-05-20-sicherheit-auto-mercedes-esf/01sicherheit-auto-mercedes-esf-w289xh385-cutout.jpg"
+alt="Mobilität von morgen - mit Sicherheit voran"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">ESF 2019</p>
+<h3 class="articleTeaser__title">Mobilität von morgen - mit Sicherheit voran</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Rodolfo Schoeneburg · <nobr>20. Mai 2019</nobr></span></div>
+</article>
+</a>
+</li>
+</ul>
+</div>
+<button class="blogBtn col col-sm-auto btn articleTeaserSection__load d-block">Mehr Artikel anzeigen
+<svg class="blogBtn__icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<path d="M256,160h-96v96H96v-96H0V96h96V0h64v96h96V160z"></path>
+</svg>
+</button>
+</section>
+<section class="container teaserXL">
+<div class="container">
+<div class="row">
+<a href="/magazin/kultur/100-dinge-lkw-bus.html">
+<div class="col-12 teaserXL__content">
+<div class="media">
+<img class="float-none float-md-left" src="/bilder/magazin/kultur/2020-09-09-100-dinge-lkw-und-bus/daimler-bus-100-teaser-w960xh540-cutout.jpg" alt="">
+<div class="media-body">
+<p class="articleTeaser__category">Lkw und Bus - wer hat's erfunden?</p>
+<h3 class="articleTeaser__title">Daimler und Benz haben nicht nur das Auto, sondern auch Lkw und Bus erfunden</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Tim Holzapfel · 10. September 2020</span></div>
+„Und wer hat’s erfunden? Die Schweizer!“ Der Satz stammt aus der Werbung für Kräuterbonbons, ließe sich aber auch auf Dinge wie Klettverschluss, Knoblauchpresse oder Kaffeekapseln übertragen. Die Wiege für automobile Erfindungen liegt jedoch ein paar Kilometer weiter nördlich, in Baden und Württemberg: Denn Carl Benz und Gottlieb Daimler, die Gründerväter der heutigen Daimler AG, haben nicht nur das Auto, sondern auch Lkw und Bus erfunden.
+</div>
+</div>
+</div></a>
+</div></div>
+</section>
+<section class="container articleTeaserSection" id="1135588">
+<div class="container">
+<div class="row"></div>
+</div>
+<h2 class="col-12 col-md-10 col-xl-8 headline headline--stroke">Technologie & Innovation</h2>
+<div class="articleTeaserSection__teaserList">
+<ul class="articleTeaserSection__row row">
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3">
+<a class="articleTeaser" href="/magazin/technologie-innovation/licht-scheinwerfer-simulator.html" aria-label="Es werde Licht">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-09-01-nachtfahrsimulator/s-klasse-scheinwerfer-titelbild-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-09-01-nachtfahrsimulator/s-klasse-scheinwerfer-titelbild-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2020-09-01-nachtfahrsimulator/s-klasse-scheinwerfer-titelbild-w289xh385-cutout.jpg"
+alt="Es werde Licht"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Nachtfahrsimulator</p>
+<h3 class="articleTeaser__title">Es werde Licht</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Nina Kotschner · <nobr>03. September 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none d-sm-block">
+<a class="articleTeaser" href="/magazin/technologie-innovation/quantencomputing.html" aria-label="Eiskalt kalkuliert">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-08-20-quantencomputing/2020-quanten-daimler-ibm-bigbets-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-08-20-quantencomputing/2020-quanten-daimler-ibm-bigbets-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2020-08-20-quantencomputing/2020-quanten-daimler-ibm-bigbets-w289xh385-cutout.jpg"
+alt="Eiskalt kalkuliert"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Quantencomputing </p>
+<h3 class="articleTeaser__title">Eiskalt kalkuliert</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Holger Mohn · <nobr>20. August 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none d-md-block">
+<a class="articleTeaser" href="/magazin/technologie-innovation/kuenstliche-intelligenz.html" aria-label="Wer denkt – wer lenkt?">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-08-06-ki/titelbid-si-w545xh727-cutout.png"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-08-06-ki/titelbid-si-w289xh385-cutout.png"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2020-08-06-ki/titelbid-si-w289xh385-cutout.png"
+alt="Wer denkt – wer lenkt?"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Künstliche Intelligenz</p>
+<h3 class="articleTeaser__title">Wer denkt – wer lenkt?</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Christian Scholz · <nobr>06. August 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none d-lg-block">
+<a class="articleTeaser" href="/magazin/technologie-innovation/100-patente-erfinder.html" aria-label="Dem ein Licht aufgeht">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-07-23-patente/2020-07-23-patente-01l-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-07-23-patente/2020-07-23-patente-01l-w545xh727-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2020-07-23-patente/2020-07-23-patente-01l-w289xh385-cutout.jpg"
+alt="Dem ein Licht aufgeht"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Erfinderliebe</p>
+<h3 class="articleTeaser__title">Dem ein Licht aufgeht</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Cornelia Hentschel · <nobr>22. Juli 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/einfach-technik-plug-in-hybrid-technologie.html" aria-label="Keine Kompromisse: Mit der Plug-in Hybrid Technologie">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-06-15-plug-in-hybrid-technologie/einfach-technik-plug-in-hybrid-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-06-15-plug-in-hybrid-technologie/einfach-technik-plug-in-hybrid-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2020-06-15-plug-in-hybrid-technologie/einfach-technik-plug-in-hybrid-teaser-w289xh385-cutout.jpg"
+alt="Keine Kompromisse: Mit der Plug-in Hybrid Technologie"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Einfach Technik: Plug-in Hybrid</p>
+<h3 class="articleTeaser__title">Keine Kompromisse: Mit der Plug-in Hybrid Technologie</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Einfach Technik / Easy Tech · <nobr>19. Juni 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/metallischer-3d-druck-nextgenam.html" aria-label="Drucksache">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-03-19-metallischer-3d-druck-nextgenam/2020-03-19-3d-druck-02-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-03-19-metallischer-3d-druck-nextgenam/2020-03-19-3d-druck-02-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2020-03-19-metallischer-3d-druck-nextgenam/2020-03-19-3d-druck-02-w289xh385-cutout.jpg"
+alt="Drucksache"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Metallischer 3D-Druck</p>
+<h3 class="articleTeaser__title">Drucksache</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Vivienne Brando · <nobr>19. März 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/100-dinge-hodometer.html" aria-label="Der SL war der Erste mit sechsstelligem Kilometerzähler">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/100-dinge/100dinge-05-teaser-hodometer-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/100-dinge/100dinge-05-teaser-hodometer-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/100-dinge/100dinge-05-teaser-hodometer-w289xh385-cutout.jpg"
+alt="Der SL war der Erste mit sechsstelligem Kilometerzähler"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">100 Dinge | #5</p>
+<h3 class="articleTeaser__title">Der SL war der Erste mit sechsstelligem Kilometerzähler</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Christian Scholz · <nobr>30. Januar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/einfach-technik-distronic.html" aria-label="Mit Abstand intelligenter: Der Aktive Abstands-Assistent DISTRONIC">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-01-27-einfach-technik-distronic/einfach-technik-distronic-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-01-27-einfach-technik-distronic/einfach-technik-distronic-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2020-01-27-einfach-technik-distronic/einfach-technik-distronic-teaser-w289xh385-cutout.jpg"
+alt="Mit Abstand intelligenter: Der Aktive Abstands-Assistent DISTRONIC"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Einfach Technik: DISTRONIC</p>
+<h3 class="articleTeaser__title">Mit Abstand intelligenter: Der Aktive Abstands-Assistent DISTRONIC</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Einfach Technik / Easy Tech · <nobr>27. Januar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/interview-eichler-future-technologies-forschung.html" aria-label="Auf schmalem Grat ">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-01-23-interview-eichler-future-technologies-forschung/20-01-21-20c0001-179-buehne-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2020-01-23-interview-eichler-future-technologies-forschung/20-01-21-20c0001-179-buehne-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2020-01-23-interview-eichler-future-technologies-forschung/20-01-21-20c0001-179-buehne-w289xh385-cutout.jpg"
+alt="Auf schmalem Grat "
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Interview Future Technologies</p>
+<h3 class="articleTeaser__title">Auf schmalem Grat </h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Holger Mohn · <nobr>23. Januar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/emv-hf-zentrum-wellenreiter.html" aria-label="Wellenreiter">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-12-05-emv-hf-zentrum-wellenreiter/19c0532-016-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-12-05-emv-hf-zentrum-wellenreiter/19c0532-016-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2019-12-05-emv-hf-zentrum-wellenreiter/19c0532-016-w289xh385-cutout.jpg"
+alt="Wellenreiter"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Elektromagnetische Verträglichkeit</p>
+<h3 class="articleTeaser__title">Wellenreiter</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sven Sattler · <nobr>05. Dezember 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/formel-e-mercedes.html" aria-label="Muss das sein?">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-11-21-formel-e-mercedes/09formel-e-mercedes-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-11-21-formel-e-mercedes/09formel-e-mercedes-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2019-11-21-formel-e-mercedes/09formel-e-mercedes-w289xh385-cutout.jpg"
+alt="Muss das sein?"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Formel E</p>
+<h3 class="articleTeaser__title">Muss das sein?</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Jessica Abt · <nobr>21. November 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/karte-navigation-mbux.html" aria-label="Vom Atlas zum MBUX">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-10-29-navigation-anker/2019-10-30-anker-navigation-01-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-10-29-navigation-anker/2019-10-30-anker-navigation-01-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2019-10-29-navigation-anker/2019-10-30-anker-navigation-01-w289xh385-cutout.jpg"
+alt="Vom Atlas zum MBUX"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Navigation</p>
+<h3 class="articleTeaser__title">Vom Atlas zum MBUX</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Steffen Tacke · <nobr>28. Oktober 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/volocopter-flug-stuttgart.html" aria-label="Warum wir mit Daimler an die Zukunft der Flugtaxis glauben">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-10-08-volocopter-flug-stuttgart/volocopter-stuttgart-1-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-10-08-volocopter-flug-stuttgart/volocopter-stuttgart-1-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2019-10-08-volocopter-flug-stuttgart/volocopter-stuttgart-1-w289xh385-cutout.jpg"
+alt="Warum wir mit Daimler an die Zukunft der Flugtaxis glauben"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Europas erster Flugtaxi-Flug</p>
+<h3 class="articleTeaser__title">Warum wir mit Daimler an die Zukunft der Flugtaxis glauben</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Florian Reuter · <nobr>08. Oktober 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/60-jahre-crashtests.html" aria-label="Schrott sei Dank!">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-09-25-crashtest/01-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-09-25-crashtest/01-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2019-09-25-crashtest/01-w289xh385-cutout.jpg"
+alt="Schrott sei Dank!"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Jubiläum des Crashtests</p>
+<h3 class="articleTeaser__title">Schrott sei Dank!</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Melanie Spremberg · <nobr>25. September 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/in-car-gaming.html" aria-label=" Mehr als nur ein Spiel?">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-09-24-in-car-gaming/incargaming01-w545xh727-cutout.png"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-09-24-in-car-gaming/incargaming01-w289xh385-cutout.png"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2019-09-24-in-car-gaming/incargaming01-w289xh385-cutout.png"
+alt=" Mehr als nur ein Spiel?"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Geschichte hinter dem Gaming-Mobil</p>
+<h3 class="articleTeaser__title"> Mehr als nur ein Spiel?</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sven Sattler · <nobr>24. September 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/formel-e-technik-mercedes-benz-eq.html" aria-label="Die Technik hinter dem Formel-E-Auto ">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-09-11-formel-e/5-formel-e-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-09-11-formel-e/5-formel-e-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2019-09-11-formel-e/5-formel-e-w289xh385-cutout.jpg"
+alt="Die Technik hinter dem Formel-E-Auto "
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Vorstellung des Formel-E-Autos</p>
+<h3 class="articleTeaser__title">Die Technik hinter dem Formel-E-Auto </h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Anne Fauser · <nobr>11. September 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/mercedes-geraeusch-elektroauto-warnsignal.html" aria-label="So entsteht der Sound des EQC">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-07-15-mercedes-gerauesch-elektroauto-warnsignal/08mercedes-geraeusch-elektroauto-warnsignal-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-07-15-mercedes-gerauesch-elektroauto-warnsignal/08mercedes-geraeusch-elektroauto-warnsignal-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2019-07-15-mercedes-gerauesch-elektroauto-warnsignal/08mercedes-geraeusch-elektroauto-warnsignal-w289xh385-cutout.jpg"
+alt="So entsteht der Sound des EQC"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Das Warnsignal der Elektroautos</p>
+<h3 class="articleTeaser__title">So entsteht der Sound des EQC</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Andrea Häussler · <nobr>15. Juli 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/necar1-brennstoffzelle-entwicklung.html" aria-label="Wie wir bei Daimler den Brennstoffzellenantrieb entwickelt haben">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-04-11-necar1-brenstoffzelle-entwicklung/01necar1-brenstoffzelle-entwicklung-jpg-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-04-11-necar1-brenstoffzelle-entwicklung/01necar1-brenstoffzelle-entwicklung-jpg-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2019-04-11-necar1-brenstoffzelle-entwicklung/01necar1-brenstoffzelle-entwicklung-jpg-w289xh385-cutout.jpg"
+alt="Wie wir bei Daimler den Brennstoffzellenantrieb entwickelt haben"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Brennstoffzellenantrieb</p>
+<h3 class="articleTeaser__title">Wie wir bei Daimler den Brennstoffzellenantrieb entwickelt haben</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Gerald Hornburg · <nobr>11. April 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/brennstoffzellen-technologie-glc-f-cell.html" aria-label="Die Brennstoffzellen-Technologie im GLC F-CELL">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-03-19-brenstoffzellen-technologie-glc-f-cell/einfach-technik-glc-f-cell-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2019-03-19-brenstoffzellen-technologie-glc-f-cell/einfach-technik-glc-f-cell-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2019-03-19-brenstoffzellen-technologie-glc-f-cell/einfach-technik-glc-f-cell-teaser-w289xh385-cutout.jpg"
+alt="Die Brennstoffzellen-Technologie im GLC F-CELL"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Einfach Technik: Brennstoffzelle</p>
+<h3 class="articleTeaser__title">Die Brennstoffzellen-Technologie im GLC F-CELL</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Einfach Technik / Easy Tech · <nobr>19. März 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/mbux-voice-assistant-hey-mercedes.html" aria-label="Versteht dich von selbst">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2018-12-28-mbux-voice-assistant-hey-mercedes/01mbux-voice-assistant-hey-mercedes-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2018-12-28-mbux-voice-assistant-hey-mercedes/01mbux-voice-assistant-hey-mercedes-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2018-12-28-mbux-voice-assistant-hey-mercedes/01mbux-voice-assistant-hey-mercedes-w289xh385-cutout.jpg"
+alt="Versteht dich von selbst"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">MBUX-Spracherkennung </p>
+<h3 class="articleTeaser__title">Versteht dich von selbst</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von André Berton · <nobr>28. Dezember 2018</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/f1-motor-mercedes-amg-hybrid.html" aria-label="So schlägt das Herz im Weltmeister-Auto">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2018-11-14-f1-motor-mercedes-amg-hybrid/01f1-motor-mercedes-amg-hybrid-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2018-11-14-f1-motor-mercedes-amg-hybrid/01f1-motor-mercedes-amg-hybrid-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2018-11-14-f1-motor-mercedes-amg-hybrid/01f1-motor-mercedes-amg-hybrid-w289xh385-cutout.jpg"
+alt="So schlägt das Herz im Weltmeister-Auto"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Technische Details des F1-Motors</p>
+<h3 class="articleTeaser__title">So schlägt das Herz im Weltmeister-Auto</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Andy Cowell · <nobr>14. November 2018</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/quantencomputer-zukunft-daimler-google-ibm-technologie.html" aria-label=""The next big thing?"">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2018-11-07-quantencomputer-zukunft-daimler-google-ibm-technologie/01quantencomputer-zukunft-daimler-google-ibm-technologie-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2018-11-07-quantencomputer-zukunft-daimler-google-ibm-technologie/01quantencomputer-zukunft-daimler-google-ibm-technologie-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2018-11-07-quantencomputer-zukunft-daimler-google-ibm-technologie/01quantencomputer-zukunft-daimler-google-ibm-technologie-w289xh385-cutout.jpg"
+alt=""The next big thing?""
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Forschungspartner Google & IBM</p>
+<h3 class="articleTeaser__title">"The next big thing?"</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Gustav Böhm · <nobr>07. November 2018</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/technologie-innovation/automatisiertes-fahren-daimler-bosch.html" aria-label="Kamera, Radar, Lidar: Deep Dive in die Technik">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/technologie-innovation/2018-08-20-kamera-radar-lidar/01kamera-radar-lidar-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/technologie-innovation/2018-08-20-kamera-radar-lidar/01kamera-radar-lidar-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/technologie-innovation/2018-08-20-kamera-radar-lidar/01kamera-radar-lidar-w289xh385-cutout.jpg"
+alt="Kamera, Radar, Lidar: Deep Dive in die Technik"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Kooperation Bosch & Daimler</p>
+<h3 class="articleTeaser__title">Kamera, Radar, Lidar: Deep Dive in die Technik</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Laura Bürkle · <nobr>20. August 2018</nobr></span></div>
+</article>
+</a>
+</li>
+</ul>
+</div>
+<button class="blogBtn col col-sm-auto btn articleTeaserSection__load d-block">Mehr Artikel anzeigen
+<svg class="blogBtn__icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<path d="M256,160h-96v96H96v-96H0V96h96V0h64v96h96V160z"></path>
+</svg>
+</button>
+</section>
+<section class="container articleTeaserSection articleTeaserSection--highlight" id="1135589">
+<div class="container">
+<div class="row"></div>
+</div>
+<h2 class="col-12 col-md-10 col-xl-8 headline headline--stroke">Nachhaltigkeit</h2>
+<div class="articleTeaserSection__teaserList">
+<ul class="articleTeaserSection__row row">
+<li class="articleTeaserSection__item col-12 col-sm-6 articleTeaser--large articleTeaser--first">
+<a class="articleTeaser" href="/magazin/nachhaltigkeit/lieferkette-mercedes-nachhaltigkeit.html" aria-label="Kettenreaktion">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/nachhaltigkeit/2019-09-05-nachhaltige-lieferkette/01nachhaltige-lieferkette-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/nachhaltigkeit/2019-09-05-nachhaltige-lieferkette/01nachhaltige-lieferkette-w335xh447-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/nachhaltigkeit/2019-09-05-nachhaltige-lieferkette/01nachhaltige-lieferkette-w430xh573-cutout.jpg"
+alt="Kettenreaktion"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Nachhaltige Lieferkette</p>
+<h3 class="articleTeaser__title">Kettenreaktion</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Yannick Grauer · <nobr>05. September 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-5 offset-md-1 offset-lg-0 articleTeaser--small d-none d-sm-block">
+<a class="articleTeaser" href="/magazin/nachhaltigkeit/mercedes-nachhaltigkeit-umweltschutz-luxus.html" aria-label="Kann Luxus nachhaltig sein?">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/nachhaltigkeit/2019-08-29-premium-nachhaltigkeit/01premium-nachhaltigkeit-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/nachhaltigkeit/2019-08-29-premium-nachhaltigkeit/01premium-nachhaltigkeit-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/nachhaltigkeit/2019-08-29-premium-nachhaltigkeit/01premium-nachhaltigkeit-w289xh385-cutout.jpg"
+alt="Kann Luxus nachhaltig sein?"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Premium und Umweltschutz</p>
+<h3 class="articleTeaser__title">Kann Luxus nachhaltig sein?</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sven Sattler · <nobr>29. August 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 articleTeaser--small d-none d-lg-block">
+<a class="articleTeaser" href="/magazin/nachhaltigkeit/nachhaltige-mobilitaet-stadt-zukunft.html" aria-label="Stadt, Land – und im Fluss?">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/nachhaltigkeit/2019-07-16-nachhaltige-mobilitaet/01nachhaltige-mobilitaet-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/nachhaltigkeit/2019-07-16-nachhaltige-mobilitaet/01nachhaltige-mobilitaet-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/nachhaltigkeit/2019-07-16-nachhaltige-mobilitaet/01nachhaltige-mobilitaet-w289xh385-cutout.jpg"
+alt="Stadt, Land – und im Fluss?"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Stadt der Zukunft</p>
+<h3 class="articleTeaser__title">Stadt, Land – und im Fluss?</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sven Sattler · <nobr>16. Juli 2019</nobr></span></div>
+</article>
+</a>
+</li>
+</ul>
+</div>
+<button class="blogBtn col col-sm-auto btn articleTeaserSection__load d-block">Mehr Artikel anzeigen
+<svg class="blogBtn__icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<path d="M256,160h-96v96H96v-96H0V96h96V0h64v96h96V160z"></path>
+</svg>
+</button>
+</section>
+<section class="container articleTeaserSection" id="1135590">
+<div class="container">
+<div class="row"></div>
+</div>
+<h2 class="col-12 col-md-10 col-xl-8 headline headline--stroke">Berufsleben</h2>
+<div class="articleTeaserSection__teaserList">
+<ul class="articleTeaserSection__row row">
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3">
+<a class="articleTeaser" href="/magazin/berufsleben/100-dinge-standorte-weltweit.html" aria-label="Bei Daimler geht die Sonne nie unter">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2020-08-24-die-sonne-geht-nie-unter/sonne100-things-16-9-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2020-08-24-die-sonne-geht-nie-unter/sonne100-things-16-9-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2020-08-24-die-sonne-geht-nie-unter/sonne100-things-16-9-w289xh385-cutout.jpg"
+alt="Bei Daimler geht die Sonne nie unter"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">100 Dinge | #11</p>
+<h3 class="articleTeaser__title">Bei Daimler geht die Sonne nie unter</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sven Sattler · <nobr>27. August 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none d-sm-block">
+<a class="articleTeaser" href="/magazin/berufsleben/virtuelle-hauptversammlung.html" aria-label="Ins Netz gegangen">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2020-07-08-virtuelle-hauptversammlung/titelbild-hv-2020-dsc7064-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2020-07-08-virtuelle-hauptversammlung/titelbild-hv-2020-dsc7064-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2020-07-08-virtuelle-hauptversammlung/titelbild-hv-2020-dsc7064-w289xh385-cutout.jpg"
+alt="Ins Netz gegangen"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Virtuelle Hauptversammlung</p>
+<h3 class="articleTeaser__title">Ins Netz gegangen</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sven Sattler · <nobr>09. Juli 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none d-md-block">
+<a class="articleTeaser" href="/magazin/berufsleben/daimler-und-corona.html" aria-label="Was ist schon normal?">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2020-07-02-daimler-und-corona/200702-corona-illustration-magazin-sf-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2020-07-02-daimler-und-corona/200702-corona-illustration-magazin-sf-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2020-07-02-daimler-und-corona/200702-corona-illustration-magazin-sf-w289xh385-cutout.jpg"
+alt="Was ist schon normal?"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Coronavirus</p>
+<h3 class="articleTeaser__title">Was ist schon normal?</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sven Sattler · <nobr>02. Juli 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none d-lg-block">
+<a class="articleTeaser" href="/magazin/berufsleben/mercedes-benz-suedafrika-east-london.html" aria-label="#thisisdaimler: East London">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2020-03-09-mercedes-benz-suedafrika-east-london/13mercedes-benz-south-africa-east-london-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2020-03-09-mercedes-benz-suedafrika-east-london/13mercedes-benz-south-africa-east-london-w545xh727-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2020-03-09-mercedes-benz-suedafrika-east-london/13mercedes-benz-south-africa-east-london-w289xh385-cutout.jpg"
+alt="#thisisdaimler: East London"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Standort-Portrait</p>
+<h3 class="articleTeaser__title">#thisisdaimler: East London</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Nomtha Munyaka · <nobr>10. März 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/berufsleben/weltfrauentag.html" aria-label="Das starke Geschlecht">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2020-03-04-weltfrauentag/20200304-weltfauentag-header-lr-red-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2020-03-04-weltfrauentag/20200304-weltfauentag-header-lr-red-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2020-03-04-weltfrauentag/20200304-weltfauentag-header-lr-red-w289xh385-cutout.jpg"
+alt="Das starke Geschlecht"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Weltfrauentag</p>
+<h3 class="articleTeaser__title">Das starke Geschlecht</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sarah Reinharz · <nobr>05. März 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/berufsleben/mercedes-benz-russland-moskau.html" aria-label="#thisisdaimler: Moscovia">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2020-01-13-mercedes-benz-russland-moskau/01mercedes-benz-russland-moskau-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2020-01-13-mercedes-benz-russland-moskau/01mercedes-benz-russland-moskau-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2020-01-13-mercedes-benz-russland-moskau/01mercedes-benz-russland-moskau-w289xh385-cutout.jpg"
+alt="#thisisdaimler: Moscovia"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Standort-Portrait</p>
+<h3 class="articleTeaser__title">#thisisdaimler: Moscovia</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Timur Ziiatdinov · <nobr>13. Januar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/berufsleben/autoland-wohin.html" aria-label="Autoland, wohin?">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2019-12-19-autoland/titelbild-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2019-12-19-autoland/titelbild-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2019-12-19-autoland/titelbild-w289xh385-cutout.jpg"
+alt="Autoland, wohin?"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Zukunft der Automobilindustrie </p>
+<h3 class="articleTeaser__title">Autoland, wohin?</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Christian Scholz · <nobr>19. Dezember 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/berufsleben/100-dinge-gastronomie.html" aria-label="Daimler kocht 40.000 Mittagessen am Tag">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/100-dinge/100dinge-01-teaser-gastronomie-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/100-dinge/100dinge-01-teaser-gastronomie-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/100-dinge/100dinge-01-teaser-gastronomie-w289xh385-cutout.jpg"
+alt="Daimler kocht 40.000 Mittagessen am Tag"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">100 Dinge | #1</p>
+<h3 class="articleTeaser__title">Daimler kocht 40.000 Mittagessen am Tag</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sven Sattler · <nobr>14. November 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/berufsleben/lkw-produktion-standort-woerth.html" aria-label="#thisisdaimler: Wörth">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2019-11-11-lkw-produktion-standort-woerth/01lkw-produktion-standort-woerth-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2019-11-11-lkw-produktion-standort-woerth/01lkw-produktion-standort-woerth-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2019-11-11-lkw-produktion-standort-woerth/01lkw-produktion-standort-woerth-w289xh385-cutout.jpg"
+alt="#thisisdaimler: Wörth"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Standort-Portrait</p>
+<h3 class="articleTeaser__title">#thisisdaimler: Wörth</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Christoph Bleicher · <nobr>11. November 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/berufsleben/arbeitsalltag-unfall-wiedereingliederung.html" aria-label="Drei Jahre nach meinem Unfall: Der Alltag hat mich wieder">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2019-10-16-wiederingliederung/01wiedereingliederung-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2019-10-16-wiederingliederung/01wiedereingliederung-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2019-10-16-wiederingliederung/01wiedereingliederung-w289xh385-cutout.jpg"
+alt="Drei Jahre nach meinem Unfall: Der Alltag hat mich wieder"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Wiedereinstieg in das Arbeitsleben</p>
+<h3 class="articleTeaser__title">Drei Jahre nach meinem Unfall: Der Alltag hat mich wieder</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Michael Much · <nobr>16. Oktober 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/berufsleben/trucks-lkw-frauen-vertrieb-verkaufsleiterin.html" aria-label="Truck-Verkäuferin: Verkaufsleiterin in der „Königsklasse“">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2019-10-04-trucks-lkw-frauen-vertrieb-verkaufsleiterin/01-trucks-lkw-frauen-vertrieb-verkaufsleiterin-w545xh727-cutout.png"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2019-10-04-trucks-lkw-frauen-vertrieb-verkaufsleiterin/01-trucks-lkw-frauen-vertrieb-verkaufsleiterin-w289xh385-cutout.png"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2019-10-04-trucks-lkw-frauen-vertrieb-verkaufsleiterin/01-trucks-lkw-frauen-vertrieb-verkaufsleiterin-w289xh385-cutout.png"
+alt="Truck-Verkäuferin: Verkaufsleiterin in der „Königsklasse“"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Der Weg zur Lkw-Verkaufsleiterin</p>
+<h3 class="articleTeaser__title">Truck-Verkäuferin: Verkaufsleiterin in der „Königsklasse“</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Maximiliane Stelzer · <nobr>04. Oktober 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/berufsleben/thomas-built-buses-gelber-schulbus-north-carolina.html" aria-label="#thisisdaimler: High Point, North Carolina ">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2019-10-01-thomas-built-buses/16-thomas-built-buses-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2019-10-01-thomas-built-buses/16-thomas-built-buses-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2019-10-01-thomas-built-buses/16-thomas-built-buses-w289xh385-cutout.jpg"
+alt="#thisisdaimler: High Point, North Carolina "
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Standort-Porträt</p>
+<h3 class="articleTeaser__title">#thisisdaimler: High Point, North Carolina </h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Mario DiFoggio · <nobr>01. Oktober 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/berufsleben/mbition-berlin-mercedes-software.html" aria-label="#thisisdaimler: MBition Berlin">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2019-09-02-mbition/01mbition-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2019-09-02-mbition/01mbition-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2019-09-02-mbition/01mbition-w289xh385-cutout.jpg"
+alt="#thisisdaimler: MBition Berlin"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Standort-Porträt</p>
+<h3 class="articleTeaser__title">#thisisdaimler: MBition Berlin</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Gregor Zetsche · <nobr>02. September 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/berufsleben/techcenter-tel-aviv-standort.html" aria-label="#thisisdaimler: Tel Aviv">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2019-07-30-telaviv/01telaviv-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2019-07-30-telaviv/01telaviv-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2019-07-30-telaviv/01telaviv-w289xh385-cutout.jpg"
+alt="#thisisdaimler: Tel Aviv"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Standort-Porträt</p>
+<h3 class="articleTeaser__title">#thisisdaimler: Tel Aviv</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Adi Ofek · <nobr>30. Juli 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/berufsleben/jobsharing-daimler-jobtandem-arbeit-karriere.html" aria-label="Geteilte Arbeit, doppelte Freude?">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2019-03-07-jobsharing/2019-03-07-jobsharing-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2019-03-07-jobsharing/2019-03-07-jobsharing-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2019-03-07-jobsharing/2019-03-07-jobsharing-w289xh385-cutout.jpg"
+alt="Geteilte Arbeit, doppelte Freude?"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Was Jobsharing so sinnvoll macht</p>
+<h3 class="articleTeaser__title">Geteilte Arbeit, doppelte Freude?</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Cornelia Hentschel · <nobr>07. März 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/berufsleben/blick-hinter-die-kantinen-kulissen.html" aria-label="Zwischen Salat und Saucen">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2018-08-29-blick-hinter-die-kantinen-kulissen/01blick-hinter-die-kantinen-kulissen-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2018-08-29-blick-hinter-die-kantinen-kulissen/01blick-hinter-die-kantinen-kulissen-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2018-08-29-blick-hinter-die-kantinen-kulissen/01blick-hinter-die-kantinen-kulissen-w289xh385-cutout.jpg"
+alt="Zwischen Salat und Saucen"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Einblick in die Daimler Gastronomie</p>
+<h3 class="articleTeaser__title">Zwischen Salat und Saucen</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Antonia Schumann · <nobr>29. August 2018</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/berufsleben/inklusion-arbeitgeber-help-much.html" aria-label="Nicht nur eine Nummer… Teil einer großen Familie!">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/berufsleben/2018-07-06-inklusion/01inklusion-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/berufsleben/2018-07-06-inklusion/01inklusion-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/berufsleben/2018-07-06-inklusion/01inklusion-w289xh385-cutout.jpg"
+alt="Nicht nur eine Nummer… Teil einer großen Familie!"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Wiedereingliederung in den Alltag </p>
+<h3 class="articleTeaser__title">Nicht nur eine Nummer… Teil einer großen Familie!</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Michael Much · <nobr>06. Juli 2018</nobr></span></div>
+</article>
+</a>
+</li>
+</ul>
+</div>
+<button class="blogBtn col col-sm-auto btn articleTeaserSection__load d-block">Mehr Artikel anzeigen
+<svg class="blogBtn__icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<path d="M256,160h-96v96H96v-96H0V96h96V0h64v96h96V160z"></path>
+</svg>
+</button>
+</section>
+<section class="container teaserXL">
+<div class="container">
+<div class="row">
+<a href="/magazin/magazin-newsletter.html">
+<div class="col-12 teaserXL__content">
+<div class="media">
+<img class="float-none float-md-left" src="/bilder/magazin/sonstiges/teaser/newsletter-teaser-w960xh540-cutout.jpg" alt="">
+<div class="media-body">
+<p class="articleTeaser__category">Informiert bleiben</p>
+<h3 class="articleTeaser__title">Newsletter abonnieren</h3>
+Wenn Sie möchten, senden wir Ihnen alle zwei Wochen freitags eine Übersicht der aktuellsten Magazin-Artikel an Ihre E-Mail-Adresse.
+</div>
+</div>
+</div></a>
+</div></div>
+</section>
+<section class="container articleTeaserSection articleTeaserSection--highlight" id="1135567">
+<div class="container">
+<div class="row"></div>
+</div>
+<h2 class="col-12 col-md-10 col-xl-8 headline headline--stroke">Kultur</h2>
+<div class="articleTeaserSection__teaserList">
+<ul class="articleTeaserSection__row row">
+<li class="articleTeaserSection__item col-12 col-sm-6 articleTeaser--large articleTeaser--first">
+<a class="articleTeaser" href="/magazin/kultur/100-dinge-lkw-bus.html" aria-label="Daimler und Benz haben nicht nur das Auto, sondern auch Lkw und Bus erfunden">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/kultur/2020-09-09-100-dinge-lkw-und-bus/daimler-bus-100-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/kultur/2020-09-09-100-dinge-lkw-und-bus/daimler-bus-100-teaser-w335xh447-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/kultur/2020-09-09-100-dinge-lkw-und-bus/daimler-bus-100-teaser-w430xh573-cutout.jpg"
+alt="Daimler und Benz haben nicht nur das Auto, sondern auch Lkw und Bus erfunden"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Lkw und Bus - wer hat's erfunden?</p>
+<h3 class="articleTeaser__title">Daimler und Benz haben nicht nur das Auto, sondern auch Lkw und Bus erfunden</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Tim Holzapfel · <nobr>10. September 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-5 offset-md-1 offset-lg-0 articleTeaser--small d-none d-sm-block">
+<a class="articleTeaser" href="/magazin/kultur/100-dinge-steinway-american-mercedes.html" aria-label="Der Klavierfabrikant William Steinway holte Daimler in die USA">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/100-dinge/2020-08-13-steinway/steinway100-dinge-16-9-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/100-dinge/2020-08-13-steinway/steinway100-dinge-16-9-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/100-dinge/2020-08-13-steinway/steinway100-dinge-16-9-w289xh385-cutout.jpg"
+alt="Der Klavierfabrikant William Steinway holte Daimler in die USA"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">100 Dinge | #10</p>
+<h3 class="articleTeaser__title">Der Klavierfabrikant William Steinway holte Daimler in die USA</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Cornelia Hentschel · <nobr>13. August 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 articleTeaser--small d-none d-lg-block">
+<a class="articleTeaser" href="/magazin/kultur/100-dinge-audi.html" aria-label="Dreizackstern und vier Ringe unter einem Dach">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/100-dinge/2020-07-30-audi/mb-und-audi-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/100-dinge/2020-07-30-audi/mb-und-audi-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/100-dinge/2020-07-30-audi/mb-und-audi-teaser-w289xh385-cutout.jpg"
+alt="Dreizackstern und vier Ringe unter einem Dach"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">100 Dinge | #9</p>
+<h3 class="articleTeaser__title">Dreizackstern und vier Ringe unter einem Dach</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Christian Scholz · <nobr>30. Juli 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/75-jahre-2-weltkrieg.html" aria-label="Unsere Geschichte. Unsere Verantwortung.">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/kultur/2020-05-05-2-weltkrieg/01-titelbild-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/kultur/2020-05-05-2-weltkrieg/01-titelbild-w545xh727-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/kultur/2020-05-05-2-weltkrieg/01-titelbild-w289xh385-cutout.jpg"
+alt="Unsere Geschichte. Unsere Verantwortung."
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">75 Jahre Ende 2. Weltkrieg</p>
+<h3 class="articleTeaser__title">Unsere Geschichte. Unsere Verantwortung.</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Christian Scholz · <nobr>07. Mai 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/caraoke-kiss-detroit-rock-city.html" aria-label=""Detroit Rock City" von Kiss">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/caraoke/2020-03-03-caraoke-8/caraoke-8-kiss-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/caraoke/2020-03-03-caraoke-8/caraoke-8-kiss-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/caraoke/2020-03-03-caraoke-8/caraoke-8-kiss-teaser-w289xh385-cutout.jpg"
+alt=""Detroit Rock City" von Kiss"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Car-aoke | #8</p>
+<h3 class="articleTeaser__title">"Detroit Rock City" von Kiss</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Christian Scholz · <nobr>03. März 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/100-dinge-daimler-und-benz.html" aria-label="Daimler und Benz haben sich nie kennengelernt">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/100-dinge/2020-02-27-daimler-und-benz/daimler-und-benz-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/100-dinge/2020-02-27-daimler-und-benz/daimler-und-benz-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/100-dinge/2020-02-27-daimler-und-benz/daimler-und-benz-teaser-w289xh385-cutout.jpg"
+alt="Daimler und Benz haben sich nie kennengelernt"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">100 Dinge | #7</p>
+<h3 class="articleTeaser__title">Daimler und Benz haben sich nie kennengelernt</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Cornelia Hentschel · <nobr>27. Februar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/caraoke-car-wash.html" aria-label="„Car Wash“ von Rose Royce">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/caraoke/2020-02-18-caraoke-7/caraoke-7-car-wash-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/caraoke/2020-02-18-caraoke-7/caraoke-7-car-wash-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/caraoke/2020-02-18-caraoke-7/caraoke-7-car-wash-teaser-w289xh385-cutout.jpg"
+alt="„Car Wash“ von Rose Royce"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Car-aoke | #7</p>
+<h3 class="articleTeaser__title">„Car Wash“ von Rose Royce</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sophie Borgert · <nobr>18. Februar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/caraoke-my-hometown.html" aria-label=""My Hometown" von Bruce Springsteen">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/caraoke/2020-01-21-caraoke-5/caraoke-05-my-hometown-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/caraoke/2020-01-21-caraoke-5/caraoke-05-my-hometown-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/caraoke/2020-01-21-caraoke-5/caraoke-05-my-hometown-teaser-w289xh385-cutout.jpg"
+alt=""My Hometown" von Bruce Springsteen"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Car-aoke | #5</p>
+<h3 class="articleTeaser__title">"My Hometown" von Bruce Springsteen</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sven Sattler · <nobr>21. Januar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/caraoke-drivers-seat.html" aria-label="„Driver's Seat“ von Sniff 'n' the Tears">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/caraoke/2020-01-10-caraoke-4/caraoke-04-drivers-seat-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/caraoke/2020-01-10-caraoke-4/caraoke-04-drivers-seat-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/caraoke/2020-01-10-caraoke-4/caraoke-04-drivers-seat-teaser-w289xh385-cutout.jpg"
+alt="„Driver's Seat“ von Sniff 'n' the Tears"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Car-aoke | #4</p>
+<h3 class="articleTeaser__title">„Driver's Seat“ von Sniff 'n' the Tears</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Holger Mohn · <nobr>10. Januar 2020</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/caraoke-driving-home.html" aria-label="„Driving Home for Christmas“ von Chris Rea">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/caraoke/2019-12-17-caraoke-3/caraoke-3-drivinghomeforchristmas-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/caraoke/2019-12-17-caraoke-3/caraoke-3-drivinghomeforchristmas-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/caraoke/2019-12-17-caraoke-3/caraoke-3-drivinghomeforchristmas-teaser-w289xh385-cutout.jpg"
+alt="„Driving Home for Christmas“ von Chris Rea"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Car-aoke | #3</p>
+<h3 class="articleTeaser__title">„Driving Home for Christmas“ von Chris Rea</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sven Sattler · <nobr>17. Dezember 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/100-dinge-kunstsammlung.html" aria-label="Bei Daimler geht’s nicht nur um automobile Kunst">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/100-dinge/100dinge-03-teaser-kunstsammlung-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/100-dinge/100dinge-03-teaser-kunstsammlung-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/100-dinge/100dinge-03-teaser-kunstsammlung-w289xh385-cutout.jpg"
+alt="Bei Daimler geht’s nicht nur um automobile Kunst"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">100 Dinge | #3</p>
+<h3 class="articleTeaser__title">Bei Daimler geht’s nicht nur um automobile Kunst</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Cornelia Hentschel · <nobr>12. Dezember 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/caraoke-im-wagen-vor-mir.html" aria-label="„Im Wagen vor mir“ von Henry Valentino & Uschi">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/caraoke/2019-12-02-caraoke-2/caraoke-2-im-wagen-vor-mir-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/caraoke/2019-12-02-caraoke-2/caraoke-2-im-wagen-vor-mir-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/caraoke/2019-12-02-caraoke-2/caraoke-2-im-wagen-vor-mir-teaser-w289xh385-cutout.jpg"
+alt="„Im Wagen vor mir“ von Henry Valentino & Uschi"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Car-aoke | #2</p>
+<h3 class="articleTeaser__title">„Im Wagen vor mir“ von Henry Valentino & Uschi</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Cornelia Hentschel · <nobr>03. Dezember 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/100-dinge-papst.html" aria-label="Der Papst setzt seit 1930 auf Mercedes-Benz">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/100-dinge/100dinge-02-teaser-papst-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/100-dinge/100dinge-02-teaser-papst-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/100-dinge/100dinge-02-teaser-papst-w289xh385-cutout.jpg"
+alt="Der Papst setzt seit 1930 auf Mercedes-Benz"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">100 Dinge | #2</p>
+<h3 class="articleTeaser__title">Der Papst setzt seit 1930 auf Mercedes-Benz</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Christian Scholz · <nobr>28. November 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/caraoke-metallica-fuel.html" aria-label="„Fuel“ von Metallica">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/formate/caraoke/2019-11-19-caraoke-1/caraoke-01-metallica-teaser-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/formate/caraoke/2019-11-19-caraoke-1/caraoke-01-metallica-teaser-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/formate/caraoke/2019-11-19-caraoke-1/caraoke-01-metallica-teaser-w289xh385-cutout.jpg"
+alt="„Fuel“ von Metallica"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Car-aoke | #1</p>
+<h3 class="articleTeaser__title">„Fuel“ von Metallica</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Christian Scholz · <nobr>19. November 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/ludwigsfelde-mauerfall.html" aria-label="Wende-Punkte">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/kultur/2019-11-07-ludwigsfelde-mauerfall/20191105-mauer-asset-sf-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/kultur/2019-11-07-ludwigsfelde-mauerfall/20191105-mauer-asset-sf-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/kultur/2019-11-07-ludwigsfelde-mauerfall/20191105-mauer-asset-sf-w289xh385-cutout.jpg"
+alt="Wende-Punkte"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">30 Jahre Mauerfall</p>
+<h3 class="articleTeaser__title">Wende-Punkte</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sven Sattler · <nobr>07. November 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/iron-man-mercedes-markenbotschafter-jan-frodeno.html" aria-label="Mann aus Eisen">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/kultur/2019-10-07-frodeno/01frodeno-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/kultur/2019-10-07-frodeno/01frodeno-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/kultur/2019-10-07-frodeno/01frodeno-w289xh385-cutout.jpg"
+alt="Mann aus Eisen"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Ironman Triathlon</p>
+<h3 class="articleTeaser__title">Mann aus Eisen</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Manuel Müller · <nobr>07. Oktober 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/name-your-car-auto.html" aria-label="Über Autos, die einen Namen tragen">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/kultur/2019-10-02-nameyourcarday/01nameyourcar-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/kultur/2019-10-02-nameyourcarday/01nameyourcar-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/kultur/2019-10-02-nameyourcarday/01nameyourcar-w289xh385-cutout.jpg"
+alt="Über Autos, die einen Namen tragen"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">#NameYourCarDay</p>
+<h3 class="articleTeaser__title">Über Autos, die einen Namen tragen</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Cornelia Hentschel · <nobr>02. Oktober 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/sicherheit-arbeitsschutz-ergonomie.html" aria-label="Warum eigentlich all die Regeln?">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/kultur/2019-09-16-sicherheit-arbeitsschutz-ergonomie/01-arbeitsschutz-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/kultur/2019-09-16-sicherheit-arbeitsschutz-ergonomie/01-arbeitsschutz-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/kultur/2019-09-16-sicherheit-arbeitsschutz-ergonomie/01-arbeitsschutz-w289xh385-cutout.jpg"
+alt="Warum eigentlich all die Regeln?"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Arbeitssicherheit</p>
+<h3 class="articleTeaser__title">Warum eigentlich all die Regeln?</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Melanie Spremberg · <nobr>16. September 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/beruf-daimler-china-bbac.html" aria-label="2555 Tage im Reich der Mitte">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/kultur/2019-05-23-neuanfang/01neuanfang-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/kultur/2019-05-23-neuanfang/01neuanfang-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/kultur/2019-05-23-neuanfang/01neuanfang-w289xh385-cutout.jpg"
+alt="2555 Tage im Reich der Mitte"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Expat in China</p>
+<h3 class="articleTeaser__title">2555 Tage im Reich der Mitte</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Ibrahim Ercan · <nobr>23. Mai 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/postkarte-social-media-suche.html" aria-label="Wie der kleine Alex viral ging">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/kultur/2019-05-08-postkarte/01postkarte-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/kultur/2019-05-08-postkarte/01postkarte-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/kultur/2019-05-08-postkarte/01postkarte-w289xh385-cutout.jpg"
+alt="Wie der kleine Alex viral ging"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Social-Media-Suche</p>
+<h3 class="articleTeaser__title">Wie der kleine Alex viral ging</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Björn Werres · <nobr>08. Mai 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/esports-mercedes-benz-sponsoring-missverstaendnisse-mvp-gaming-lol-dota2.html" aria-label="„Das ist doch kein Sport!“ ">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/kultur/2019-01-25-esports/2019-01-25-esports-crystal-maiden-schauspielerin-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/kultur/2019-01-25-esports/2019-01-25-esports-crystal-maiden-schauspielerin-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/kultur/2019-01-25-esports/2019-01-25-esports-crystal-maiden-schauspielerin-w289xh385-cutout.jpg"
+alt="„Das ist doch kein Sport!“ "
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">eSports</p>
+<h3 class="articleTeaser__title">„Das ist doch kein Sport!“ </h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Gunnar Schrage · <nobr>25. Januar 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/windkanal-sindelfingen-aerodynamiker-triathlet-neuer-cla.html" aria-label="Gemeinsam gegen den Wind">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/kultur/2019-01-17-windkanal/01windkanal-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/kultur/2019-01-17-windkanal/01windkanal-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/kultur/2019-01-17-windkanal/01windkanal-w289xh385-cutout.jpg"
+alt="Gemeinsam gegen den Wind"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Aerodynamiker trifft Triathleten</p>
+<h3 class="articleTeaser__title">Gemeinsam gegen den Wind</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Teddy Woll · <nobr>17. Januar 2019</nobr></span></div>
+</article>
+</a>
+</li>
+<li class="articleTeaserSection__item col-12 col-sm-6 col-md-4 col-lg-3 d-none">
+<a class="articleTeaser" href="/magazin/kultur/licht-mercedes-stern-advent-weihnachten-jahresrueckblick.html" aria-label="Stern-Stunde">
+<article>
+<div class="articleTeaser__imgWrapper">
+<picture>
+<source
+type="image/jpeg"
+media="(max-width: 767px)"
+data-srcset="/bilder/magazin/kultur/2018-12-21-licht-im-dunkeln/01licht-im-dunkeln-w545xh727-cutout.jpg"
+/>
+<source
+type="image/jpeg"
+media="(max-width: 991px)"
+data-srcset="/bilder/magazin/kultur/2018-12-21-licht-im-dunkeln/01licht-im-dunkeln-w289xh385-cutout.jpg"
+/>
+<img
+class="lazy articleTeaser__img"
+data-src="/bilder/magazin/kultur/2018-12-21-licht-im-dunkeln/01licht-im-dunkeln-w289xh385-cutout.jpg"
+alt="Stern-Stunde"
+/>
+</picture>
+<div class="articleTeaser__overlay"></div>
+</div>
+<p class="articleTeaser__category">Berühmtes Markenzeichen</p>
+<h3 class="articleTeaser__title">Stern-Stunde</h3>
+<div class="articleTeaser__meta"><span class="articleTeaser__author">von Sven Sattler · <nobr>21. Dezember 2018</nobr></span></div>
+</article>
+</a>
+</li>
+</ul>
+</div>
+<button class="blogBtn col col-sm-auto btn articleTeaserSection__load d-block">Mehr Artikel anzeigen
+<svg class="blogBtn__icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<path d="M256,160h-96v96H96v-96H0V96h96V0h64v96h96V160z"></path>
+</svg>
+</button>
+</section>
+<section class="textTeaser container--plus">
+<div class="container">
+<div class="row">
+<div class="col-12 col-md-10 col-xl-8 textTeaser__content">
+<h2 class="headline textTeaser__title">Warum wir das tun</h2>
+<p class="textTeaser__text">Willkommen im neuen Online-Magazin von Daimler. Hier wollen wir drei Dinge tun: Erstens wollen wir uns fundiert mit Themen beschäftigen, die gesellschaftlich, technologisch oder strategisch relevant sind. Wir wollen zweitens zeigen, wie facettenreich Daimler ist. Und wir wollen drittens erklären, was dieses Unternehmen warum tut. Hier veröffentlichen wir alle zwei Wochen donnerstags eine Lesegeschichte und dazwischen kürzere, unterhaltsame Formate.</p>
+<a class="blogBtn btn blogBtn--link col col-sm-auto blogBtn blogBtn--bright" href="/magazin/ueber-unser-magazin.html" target="_self">Mehr über das Magazin erfahren
+<svg class="blogBtn__icon blogBtn--external" width="21px" height="18px" viewBox="0 0 21 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g transform="translate(-208.000000, -22.000000)" fill="#FFFFFF" fill-rule="nonzero">
+<g>
+<g transform="translate(49.000000, 19.000000)">
+<g transform="translate(168.606602, 10.606602) rotate(135.000000) translate(-168.606602, -10.606602) translate(161.106602, 3.106602)">
+<polygon transform="translate(6.706140, 7.086538) rotate(45.000000) translate(-6.706140, -7.086538) " points="4.46560579 0.00268031187 8.93884016 0.00515444593 8.94667491 14.1703966 4.47344055 14.1679225"></polygon>
+<polygon points="9.68664717 0 14.1574074 0 14.1574074 14.1730769 9.68664717 14.1730769"></polygon>
+<polygon transform="translate(7.078704, 2.237854) rotate(90.000000) translate(-7.078704, -2.237854) " points="4.84084945 -4.84084945 9.31655795 -4.84084945 9.31655795 9.31655795 4.84084945 9.31655795"></polygon>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
+</a>
+</div>
+</div>
+</div>
+</section>
+</main>
+<script type="text/javascript" src="/system/js/daimler-js-magazin.js"></script>
+<section>
+<!-- Breadcrumb -->
+<!-- exclude -->
+<div class="container breadcrumb">
+<div class="row">
+<div class="col-xs-12 col-sm-9 col-md-12 col-lg-12 pull-left hidden-xs hidden-sm">
+<ul itemscope itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/de/" target="_self">Startseite</a></li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemscope itemtype="http://schema.org/Thing" itemprop="item" href="/magazin/" id="/magazin/"><span itemprop="name">Magazin</span></a><meta itemprop="position" content="1" /></li>
+</ul>
+</div>
+<!-- MODUL "A34 - Sprungmarke" START -->
+<div class="col-xs-12 col-sm-3 col-md-2 col-lg-2 pull-right text-right">
+<a class="to-top" href="#" title="Nach oben"></a>
+</div>
+<!-- MODUL "A34 - Sprungmarke" END -->
+</div>
+</div> <!-- *** div breadcrumb end *** //-->
+<!-- /exclude -->
+</section>
+<!-- exclude -->
+<!-- MODUL "F02 - Footer" START -->
+<footer>
+<!-- MODUL "A20 - Social Media Kacheln" START -->
+<div class="container social-media-links">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 links-wrapper">
+<ul>
+<li>
+<a class="social-facebook" href="#" target="_blank" rel="noopener noreferrer" >Facebook</a>
+<div class="layer-content">
+<div class="layer-head">Facebook</div>
+<ul>
+<li><a href="https://www.facebook.com/daimlercareer" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_facebook_Daimler Career" data-analytics-linkcategory="footer_social">Daimler Career</a></li>
+<li><a href="https://www.facebook.com/lab1886/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_facebook_Lab1886 - Innovative Business Solutions" data-analytics-linkcategory="footer_social">Lab1886 - Innovative Business Solutions</a></li>
+<li><a href="https://www.facebook.com/MercedesBenz" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_facebook_Mercedes-Benz" data-analytics-linkcategory="footer_social">Mercedes-Benz</a></li>
+<li><a href="https://www.facebook.com/MercedesAMG" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_facebook_Mercedes-AMG" data-analytics-linkcategory="footer_social">Mercedes-AMG</a></li>
+<li><a href="https://www.facebook.com/smart.germany" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_facebook_smart" data-analytics-linkcategory="footer_social">smart</a></li>
+<li><a href="https://www.facebook.com/freightliner" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_facebook_Freightliner" data-analytics-linkcategory="footer_social">Freightliner</a></li>
+<li><a href="https://www.facebook.com/FusoOfficial" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_facebook_FUSO" data-analytics-linkcategory="footer_social">FUSO</a></li>
+<li><a href="https://www.facebook.com/westernstartrucks" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_facebook_Western Star" data-analytics-linkcategory="footer_social">Western Star</a></li>
+<li><a href="https://www.facebook.com/thomasbuiltbuses" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_facebook_Thomas Built Buses" data-analytics-linkcategory="footer_social">Thomas Built Buses</a></li>
+<li><a href="https://www.facebook.com/MercedesBenzBank" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_facebook_Mercedes-Benz Bank" data-analytics-linkcategory="footer_social">Mercedes-Benz Bank</a></li>
+</ul>
+<div class="close-layer"><span class="ic"></span></div>
+</div>
+</li>
+<li>
+<a class="social-twitter" href="#" target="_blank" rel="noopener noreferrer" >Twitter</a>
+<div class="layer-content">
+<div class="layer-head">Twitter</div>
+<ul>
+<li><a href="https://twitter.com/daimler" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_twitter_Daimler AG" data-analytics-linkcategory="footer_social">Daimler AG</a></li>
+<li><a href="https://twitter.com/MobilityDaimler " target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_twitter_Daimler Mobility AG" data-analytics-linkcategory="footer_social">Daimler Mobility AG</a></li>
+<li><a href="https://twitter.com/lab1886" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_twitter_Lab1886 - Innovative Business Solutions" data-analytics-linkcategory="footer_social">Lab1886 - Innovative Business Solutions</a></li>
+<li><a href="https://twitter.com/DaimlerTruckBus" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_twitter_Daimler Trucks & Buses" data-analytics-linkcategory="footer_social">Daimler Trucks & Buses</a></li>
+<li><a href="https://twitter.com/MercedesBenz" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_twitter_Mercedes-Benz" data-analytics-linkcategory="footer_social">Mercedes-Benz</a></li>
+<li><a href="https://twitter.com/MercedesAMG" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_twitter_Mercedes-AMG" data-analytics-linkcategory="footer_social">Mercedes-AMG</a></li>
+<li><a href="https://twitter.com/smart_worldwide" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_twitter_smart" data-analytics-linkcategory="footer_social">smart</a></li>
+<li><a href="https://twitter.com/freightliner" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_twitter_Freightliner" data-analytics-linkcategory="footer_social">Freightliner</a></li>
+<li><a href="https://twitter.com/WstrnStarTrucks" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_twitter_Western Star" data-analytics-linkcategory="footer_social">Western Star</a></li>
+</ul>
+<div class="close-layer"><span class="ic"></span></div>
+</div>
+</li>
+<li>
+<a class="social-youtube" href="#" target="_blank" rel="noopener noreferrer" >YouTube</a>
+<div class="layer-content">
+<div class="layer-head">YouTube</div>
+<ul>
+<li><a href="https://www.youtube.com/user/daimler" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_youtube_Daimler AG" data-analytics-linkcategory="footer_social">Daimler AG</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLHZZLxrAzMZKLmivewPrJkvwJOre0SeEl" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_youtube_Daimler Career" data-analytics-linkcategory="footer_social">Daimler Career</a></li>
+<li><a href="https://www.youtube.com/watch?v=W-M4McrJr8w&list=PLHZZLxrAzMZJmOpgEDyg6WU9LQD7BVej-" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_youtube_DigitalLife@Daimler" data-analytics-linkcategory="footer_social">DigitalLife@Daimler</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLHZZLxrAzMZLdvREv6D7gP_YjhFct1LJV" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_youtube_Daimler Mobility AG" data-analytics-linkcategory="footer_social">Daimler Mobility AG</a></li>
+<li><a href="https://www.youtube.com/user/mercedesbenz" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_youtube_Mercedes-Benz" data-analytics-linkcategory="footer_social">Mercedes-Benz</a></li>
+<li><a href="http://www.youtube.com/user/OfficialMercedesAMG" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_youtube_Mercedes-AMG" data-analytics-linkcategory="footer_social">Mercedes-AMG</a></li>
+<li><a href="https://www.youtube.com/user/smart" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_youtube_smart" data-analytics-linkcategory="footer_social">smart</a></li>
+<li><a href="https://www.youtube.com/user/FreightlinerTruckers" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_youtube_Freightliner" data-analytics-linkcategory="footer_social">Freightliner</a></li>
+<li><a href="https://www.youtube.com/Fusoofficial" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_youtube_FUSO" data-analytics-linkcategory="footer_social">FUSO</a></li>
+<li><a href="https://www.youtube.com/user/SeriousTrucks" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_youtube_Western Star" data-analytics-linkcategory="footer_social">Western Star</a></li>
+<li><a href="https://www.youtube.com/user/BharatBenzTrucks1" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_youtube_BharatBenz" data-analytics-linkcategory="footer_social">BharatBenz</a></li>
+<li><a href="https://www.youtube.com/user/MercedesBenzOmnibus" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_youtube_Mercedes-Benz Omnibus" data-analytics-linkcategory="footer_social">Mercedes-Benz Omnibus</a></li>
+</ul>
+<div class="close-layer"><span class="ic"></span></div>
+</div>
+</li>
+<li>
+<a class="social-instagram" href="#" target="_blank" rel="noopener noreferrer" >Instagram</a>
+<div class="layer-content">
+<div class="layer-head">Instagram</div>
+<ul>
+<li><a href="https://www.instagram.com/daimler_ag/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_instagram_Daimler AG" data-analytics-linkcategory="footer_social">Daimler AG</a></li>
+<li><a href="https://www.instagram.com/daimlercareer/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_instagram_Daimler Career" data-analytics-linkcategory="footer_social">Daimler Career</a></li>
+<li><a href="https://www.instagram.com/gorden.wagener/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_instagram_Daimler Chief Design Officer" data-analytics-linkcategory="footer_social">Daimler Chief Design Officer</a></li>
+<li><a href="https://www.instagram.com/lab1886/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_instagram_Lab1886 - Innovative Business Solutions" data-analytics-linkcategory="footer_social">Lab1886 - Innovative Business Solutions</a></li>
+<li><a href="https://www.instagram.com/mercedesbenz/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_instagram_Mercedes-Benz" data-analytics-linkcategory="footer_social">Mercedes-Benz</a></li>
+<li><a href="https://www.instagram.com/mercedesbenz_de/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_instagram_Mercedes-Benz Deutschland" data-analytics-linkcategory="footer_social">Mercedes-Benz Deutschland</a></li>
+<li><a href="http://www.instagram.com/mercedesbenzmuseum" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_instagram_Mercedes-Benz Classic" data-analytics-linkcategory="footer_social">Mercedes-Benz Classic</a></li>
+<li><a href="https://www.instagram.com/mercedesamg/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_instagram_Mercedes-AMG" data-analytics-linkcategory="footer_social">Mercedes-AMG</a></li>
+<li><a href="https://www.instagram.com/smart_worldwide/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_instagram_smart" data-analytics-linkcategory="footer_social">smart</a></li>
+<li><a href="https://www.instagram.com/daimlertrucksna/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_instagram_Daimler Trucks Nordamerika" data-analytics-linkcategory="footer_social">Daimler Trucks Nordamerika</a></li>
+<li><a href="https://www.instagram.com/freightlinertrucks/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_instagram_Freightliner" data-analytics-linkcategory="footer_social">Freightliner</a></li>
+<li><a href="https://www.instagram.com/westernstartruck/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_instagram_Western Star" data-analytics-linkcategory="footer_social">Western Star</a></li>
+<li><a href="https://www.instagram.com/bharatbenz/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_instagram_BharatBenz" data-analytics-linkcategory="footer_social">BharatBenz</a></li>
+</ul>
+<div class="close-layer"><span class="ic"></span></div>
+</div>
+</li>
+<li>
+<a class="social-linkedin" href="#" target="_blank" rel="noopener noreferrer" >LinkedIn</a>
+<div class="layer-content">
+<div class="layer-head">LinkedIn</div>
+<ul>
+<li><a href="http://www.linkedin.com/company/daimler/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_linkedin_Daimler AG" data-analytics-linkcategory="footer_social">Daimler AG</a></li>
+<li><a href="https://www.linkedin.com/company/daimler-mobility/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_linkedin_Daimler Mobility AG" data-analytics-linkcategory="footer_social">Daimler Mobility AG</a></li>
+<li><a href="https://www.linkedin.com/showcase/daimlertrucksbuses/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_linkedin_Daimler Truck AG" data-analytics-linkcategory="footer_social">Daimler Truck AG</a></li>
+<li><a href="https://www.linkedin.com/company/lab1886" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_linkedin_Lab1886 - Innovative Business Solutions" data-analytics-linkcategory="footer_social">Lab1886 - Innovative Business Solutions</a></li>
+<li><a href="https://www.linkedin.com/company/mercedes-amg-gmbh" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_linkedin_Mercedes-AMG GmbH" data-analytics-linkcategory="footer_social">Mercedes-AMG GmbH</a></li>
+<li><a href="https://www.linkedin.com/company/mercedes-benz-die-niederlassungen" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_linkedin_Mercedes-Benz Niederlassungen" data-analytics-linkcategory="footer_social">Mercedes-Benz Niederlassungen</a></li>
+<li><a href="https://www.linkedin.com/company/daimler-india-commercial-vehicles-pvt--ltd-" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_linkedin_Daimler Trucks Asia" data-analytics-linkcategory="footer_social">Daimler Trucks Asia</a></li>
+<li><a href="https://www.linkedin.com/company/daimler_trucks_north_america" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_linkedin_Daimler Trucks North America LLC" data-analytics-linkcategory="footer_social">Daimler Trucks North America LLC</a></li>
+<li><a href="https://www.linkedin.com/company/evobus" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_linkedin_Daimler Buses - Evobus GmbH" data-analytics-linkcategory="footer_social">Daimler Buses - Evobus GmbH</a></li>
+</ul>
+<div class="close-layer"><span class="ic"></span></div>
+</div>
+</li>
+<li>
+<a class="social-xing" href="#" target="_blank" rel="noopener noreferrer" >Xing</a>
+<div class="layer-content">
+<div class="layer-head">Xing</div>
+<ul>
+<li><a href="https://www.xing.com/companies/daimlerag" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_xing_Daimler AG" data-analytics-linkcategory="footer_social">Daimler AG</a></li>
+<li><a href="https://www.xing.com/companies/mercedes-amggmbh" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_social_xing_Mercedes-AMG GmbH" data-analytics-linkcategory="footer_social">Mercedes-AMG GmbH</a></li>
+</ul>
+<div class="close-layer"><span class="ic"></span></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div> <!-- *** div social-media-links end *** //-->
+<!-- MODUL "A20 - Social Media Kacheln" END -->
+<div class="footer-content-wrapper">
+<div class="container footer-boxes">
+<div class="row">
+<div class="panel-group" id="footerAccordion">
+<!-- MODUL "A44 - Aktienticker" START -->
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">
+<a data-toggle="collapse" class="collapsed" href="#collapseStockTicker">Daimler-Aktie</a>
+</h3>
+</div>
+<div id="collapseStockTicker" class="panel-collapse collapse">
+<div class="panel-body">
+<div class="stock-ticker" data-stocktickerfeedfile="/system/import/stockticker/stockticker-de.json" data-stocktickerlink="/investoren/aktie/"></div>
+</div>
+</div>
+</div>
+<!-- *** div page-teaser-element end *** //-->
+<!-- MODUL "A44 - Aktienticker" End -->
+<div class="panel panel-default ">
+<div class="panel-heading">
+<h3 class="panel-title"><a data-toggle="collapse" class="collapsed" href="#collapseService">Services</a></h3>
+</div>
+<div id="collapseService" class="panel-collapse collapse">
+<div class="panel-body">
+<ul>
+<li>
+<a href="/kontakt/" target="_self" >Kontakt</a>
+</li>
+<li>
+<a href="/podcasts/" target="_self" >Daimler-Podcasts</a>
+</li>
+<li>
+<a href="/live/" target="_self" >Liveübertragungen</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">
+<a data-toggle="collapse" class="collapsed" href="#collapseAboutDaimler">
+Über Daimler
+</a>
+</h3>
+</div>
+<div id="collapseAboutDaimler" class="panel-collapse collapse">
+<div class="panel-body">Wir gehören zu den größten Anbietern von Premium-Pkw und sind der größte weltweit aufgestellte Nutzfahrzeug-Hersteller. Wir bieten Finanzierung, Leasing, Flottenmanagement, Versicherungen und innovative Mobilitätsdienstleistungen an.</div>
+</div>
+</div>
+</div> <!-- *** div footerAccordion end *** //-->
+</div>
+</div> <!-- *** div footer-boxes end *** //-->
+<!-- Quick Links -->
+<div class="container footer-quicklinks">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 quicklinks-wrapper">
+<ul>
+<li><div class="dropdown-lang lang-switch">
+<button class="btn dropdown-toggle " type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<span class="lang-switch">Deutsch<span class="caret"></span></span>
+</button>
+<ul class="dropdown-menu">
+<li><a href="/magazine/" lang="en" hreflang="en">English<span class="display-header-only"> (EN)</span></a></li>
+</ul>
+</div></li>
+<li><a href="/sitemap/" target="_self" >Sitemap</a></li>
+<li><a href="/anbieter/" target="_self" >Anbieter</a></li>
+</ul>
+<ul>
+<li><a href="/anbieter/" target="_self" >Rechtliche Hinweise</a></li>
+<li><a href="/cookies/" target="_self" >Cookies</a></li>
+<li><a href="/datenschutz/" target="_self" >Datenschutz</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- *** div footer-quicklinks end *** //-->
+<!-- Brands -->
+<div class="container footer-brands">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 brands-wrapper">
+<ul>
+<li>
+<a href="http://www.mercedes-benz.com/de/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_mercedes-benz logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="Mercedes-Benz Logo" >
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/mercedes-benz-logo-w126xh70.png" alt="Mercedes-Benz Logo"></noscript>
+</span>
+</a>
+</li>
+<li>
+<a href="http://www.mercedes-amg.com/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_mercedes-amg logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="Mercedes-AMG Logo" >
+<span data-src="/bilder/misc/markenlogos/mercedes-amg-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-amg-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-amg-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-amg-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/mercedes-amg-logo-w126xh70.png" alt="Mercedes-AMG Logo"></noscript>
+</span>
+</a>
+</li>
+<li>
+<a href="https://www.mercedes-benz.com/de/mercedes-benz/fahrzeuge/personenwagen/mercedes-maybach/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_mercedes-maybach logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="Mercedes-Maybach Logo" >
+<span data-src="/bilder/misc/markenlogos/mercedes-maybach-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-maybach-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-maybach-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-maybach-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/mercedes-maybach-logo-w126xh70.png" alt="Mercedes-Maybach Logo"></noscript>
+</span>
+</a>
+</li>
+<li>
+<a href="https://www.mercedes-benz.com/eq" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_mercedes-benz eq logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="Mercedes-Benz EQ Logo" >
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-eq-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-eq-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-eq-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-eq-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/mercedes-benz-eq-logo-w126xh70.png" alt="Mercedes-Benz EQ Logo"></noscript>
+</span>
+</a>
+</li>
+<li>
+<a href="https://www.mercedes.me/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_mercedes-me logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="Mercedes-me Logo" >
+<span data-src="/bilder/misc/markenlogos/mercedes-me-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-me-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-me-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-me-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/mercedes-me-logo-w126xh70.png" alt="Mercedes-me Logo"></noscript>
+</span>
+</a>
+</li>
+<li>
+<a href="http://www.smart.de/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_smart logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="smart Logo" >
+<span data-src="/bilder/misc/markenlogos/smart-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/smart-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/smart-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/smart-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/smart-logo-w126xh70.png" alt="smart Logo"></noscript>
+</span>
+</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="http://www.freightlinertrucks.com/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_freightliner logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="Freightliner Logo" >
+<span data-src="/bilder/misc/markenlogos/freightliner-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/freightliner-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/freightliner-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/freightliner-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/freightliner-logo-w126xh70.png" alt="Freightliner Logo"></noscript>
+</span>
+</a>
+</li>
+<li>
+<a href="https://www.mitsubishi-fuso.com/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_fuso logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="FUSO Logo" >
+<span data-src="/bilder/misc/markenlogos/fuso-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/fuso-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/fuso-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/fuso-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/fuso-logo-w126xh70.png" alt="FUSO Logo"></noscript>
+</span>
+</a>
+</li>
+<li>
+<a href="http://www.westernstartrucks.com/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_western star logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="Western Star Logo" >
+<span data-src="/bilder/misc/markenlogos/western-star-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/western-star-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/western-star-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/western-star-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/western-star-logo-w126xh70.png" alt="Western Star Logo"></noscript>
+</span>
+</a>
+</li>
+<li>
+<a href="http://www.thomasbus.com/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_thomas built buses logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="Thomas Built Buses Logo" >
+<span data-src="/bilder/misc/markenlogos/thomas-built-buses-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/thomas-built-buses-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/thomas-built-buses-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/thomas-built-buses-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/thomas-built-buses-logo-w126xh70.png" alt="Thomas Built Buses Logo"></noscript>
+</span>
+</a>
+</li>
+<li>
+<a href="http://www.bharatbenz.com/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_bharatbenz logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="BharatBenz Logo" >
+<span data-src="/bilder/misc/markenlogos/bharatbenz-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/bharatbenz-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/bharatbenz-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/bharatbenz-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/bharatbenz-logo-w126xh70.png" alt="BharatBenz Logo"></noscript>
+</span>
+</a>
+</li>
+<li>
+<a href="http://www.setra.de/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_setra logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="Setra Logo" >
+<span data-src="/bilder/misc/markenlogos/setra-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/setra-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/setra-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/setra-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/setra-logo-w126xh70.png" alt="Setra Logo"></noscript>
+</span>
+</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="https://www.daimler-mobility.com/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_mercedes-benz financial logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="Mercedes-Benz Financial Logo" >
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-financial-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-financial-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-financial-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-financial-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/mercedes-benz-financial-logo-w126xh70.png" alt="Mercedes-Benz Financial Logo"></noscript>
+</span>
+</a>
+</li>
+<li>
+<a href="http://www.mercedes-benz-bank.de/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_mercedes-benz bank logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="Mercedes-Benz Bank Logo" >
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-bank-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-bank-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-bank-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/mercedes-benz-bank-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/mercedes-benz-bank-logo-w126xh70.png" alt="Mercedes-Benz Bank Logo"></noscript>
+</span>
+</a>
+</li>
+<li>
+<a href="http://www.daimler-truckfinancial.com/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_daimler truck financial logo" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="Daimler Truck Financial Logo" >
+<span data-src="/bilder/misc/markenlogos/daimler-truck-financial-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/daimler-truck-financial-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/daimler-truck-financial-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/daimler-truck-financial-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/daimler-truck-financial-logo-w126xh70.png" alt="Daimler Truck Financial Logo"></noscript>
+</span>
+</a>
+</li>
+<li>
+<a href="https://www.athlon.com/de/" target="_blank" rel="noopener noreferrer" data-analytics-linkname="footer_logo_athlon" data-analytics-linkcategory="footer_logo" >
+<span data-picture data-alt="Athlon Logo" >
+<span data-src="/bilder/misc/markenlogos/athlon-logo-w126xh70.png" data-media="(max-width: 767px)"></span>
+<span data-src="/bilder/misc/markenlogos/athlon-logo-w140xh100.png" data-media="(min-width: 768px)"></span>
+<span data-src="/bilder/misc/markenlogos/athlon-logo-w126xh70.png" data-media="(min-width: 1024px)"></span>
+<span data-src="/bilder/misc/markenlogos/athlon-logo-w180xh100.png" data-media="(min-width: 1681px)"></span>
+<!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+<noscript><img src="/bilder/misc/markenlogos/athlon-logo-w126xh70.png" alt="Athlon Logo"></noscript>
+</span>
+</a>
+</li>
+</ul>
+</div> <!-- *** div brands-wrapper end *** //-->
+</div>
+</div> <!-- *** div footer-brands end *** //-->
+<!-- Copyright -->
+<div class="container footer-copy">
+<div class="row">
+<div class="col-md-12 col-lg-12 text-center">&copy; 2020 Daimler AG. Alle Rechte vorbehalten.</div>
+</div>
+</div> <!-- *** div footer-copy end *** //-->
+<div class="container footer-disclaimer">
+<p>* Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO₂-Emissionen neuer Personenkraftwagen können dem &#34;Leitfaden über den Kraftstoffverbrauch, die CO₂-Emissionen und den Stromverbrauch&#34; neuer Personenkraftwagen entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter <a href="http://www.dat.de" target="_blank" rel="noopener noreferrer" data-analytics-linkname="_www.dat.de" data-analytics-linkcategory="footer_social">www.dat.de</a> unentgeltlich erhältlich ist.</p><p>** Stromverbrauch und Reichweite wurden auf der Grundlage der VO 692/2008/EG ermittelt. Stromverbrauch und Reichweite sind abhängig von der Fahrzeugkonfiguration.</p>
+</div>
+</div> <!-- *** div footer-content-wrapper end *** //-->
+</footer>
+<!-- MODUL "F02 - Footer" END -->
+<!-- MODUL "A36 - Cookiehinweis" Start -->
+<div class="info-layer-wrapper">
+<div id="cookiePolicy">
+<div class="info-dialog">
+<div class="info-content">
+<div class="info-header">
+<p class="info-title">Wir verwenden Cookies</p>
+</div>
+<div class="info-body">
+<p>Damit wollen wir unsere Webseiten nutzerfreundlicher gestalten und fortlaufend verbessern. Wenn Sie die Webseiten weiter nutzen, stimmen Sie dadurch der Verwendung von Cookies zu.</p>
+</div>
+<div class="info-footer">
+<a class="more-info" href="/cookies/">Weitere Informationen erhalten Sie in unseren Cookie-Hinweisen</a>
+<button type="button" class="btn info-close">Schließen</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- MODUL "A36 - Cookiehinweis" End -->
+<script>
+var jt_google_maps_api_key="gme-daimlerag10";
+var jt_jobsearchSubscriptionSuccessPageref = "/karriere/jobsuche/stellensuche-abonnement/";
+var jt_jobsearchSubscriptionErrorPageref = "/karriere/jobsuche/stellensuche-abonnement/stellensuche-abo-fehlgeschlagen.html";
+var LANG = {
+code : 'de',
+all: "Alle",
+all_categories: "Alle Kategorien",
+saved: "Gemerkt",
+nonSelectedText: 'Bitte wählen Sie einen Geschäftsbereich...',
+selectAllText: 'Alle aus-/abwählen',
+nSelectedText: 'Bereiche ausgewählt',
+formError: 'Bitte überprüfen Sie das Formular nocheinmal. Einige Informationen sind fehlerhaft oder unvollständig.',
+outputWrong: 'Es sind nur 5 Uploads erlaubt' ,
+maxUploadSize: 'Ihre maximale Upload-Größe von 5 MB ist erreicht',
+wrongFiletype: 'falsches Dateiformat',
+fileTooLarge: 'Datei zu groß',
+remove: 'Entfernen',
+requiredField: "Die Nachricht ist ein Pflichtfeld und kann nicht leer gelassen werden.",
+lessThan: "Die Mitteilung muss länger als 6 Zeichen sein und nicht mehr als 100 Zeichen lang.",
+invalidEmail: "Es handelt sich um keine gültige E-Mail-Adresse." ,
+uploadError: 'Der Upload hat nicht geklappt <br/> Bitte versuchen Sie es erneut.' ,
+positions: 'Stellen',
+position: 'Stelle',
+remembered: 'gemerkte ',
+saveList: 'Merkliste',
+savedAt: 'gemerkt am',
+markAll: 'Alle markieren',
+deleteMarked: 'Markierte Stellen löschen',
+close: 'Schließen',
+joboffer: 'Stellenanzeige',
+news: "Nachrichten",
+picsandvideos: "Bilder und Videos",
+fequentSearchTermsTitle : "Häufige Suchbegriffe",
+frequentSearchTerms : [ "Erfindung", "Karriere", "Anfahrt" ],
+resultCount: '<span>{{count}}</span> von {{total}} Ergebnissen',
+resultEventCount: '<span>{{count}}</span> von {{total}} Ergebnissen',
+showMoreResults: "Weitere Ergebnisse anzeigen",
+noResults: "keine Ergebnisse!",
+searchOptions: "Suchoptionen",
+resultJobCount: "{{current}} von {{total}} Treffern",
+daily: "täglich",
+weekly: "wöchentlich" ,
+monthly: "monatlich",
+PublicationStartDate: "Neueste Stellen zuerst" ,
+OrganizationName: "Geschäftsbereich" ,
+PositionTitle: "Position",
+addToNotepad: "Zur Merkliste hinzufügen",
+successfulAddedToNotepad: "Erfolgreich hinzugefügt",
+openNotepad: "Merkliste öffnen",
+areaOfOperationsSelect: "Bitte wählen Sie den Geschäftsbereich ...",
+selectOnOff: "Alle aus-/abwählen",
+areaSelected: "Bereiche ausgewählt",
+regionAsia: "Asien",
+regionAfrica: "Afrika",
+regionMiddleNorthAmerica: "Nord- & Mittelamerika",
+regionSouthAmerica: "Südamerika",
+regionAustralia: "Australien & Pazifik",
+regionEurope: "Europa",
+jobsAtLocation: "Jobs am Standort",
+looking_for: "Wonach suchen Sie?",
+invalid_input: "Ihre Eingabe ist nicht gültig.",
+contact_form_comm_error: "Bei der Übertragung der Daten ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.",
+positiontypes_all: "Alle Stellentypen",
+fields_of_employment_all: "Alle Tätigkeitsbereiche",
+careerLevel_management: "Führungsposition",
+jobsatdaimler: "Jobs bei Daimler gefunden",
+allpositions: "Alle weiteren Stellen",
+stock_error: "Der Aktienkurs kann momentan nicht angezeigt werden.",
+press_error: "Fehler beim Zugriff auf die Mediendaten.",
+next: "weiter",
+previous: "zurück",
+jobAboNotification_Headline: "Newsletter Anmeldung",
+jobAboNotification_SucessCopytext: "Ihre E-Mail wurde erfolgreich registriert. Sie erhalten in Kürze von uns eine E-Mail mit einem Bestätigungslink. Erst nach dieser Aktivierung wird Ihr Abonnement aktiv und Sie erhalten regelm\u00e4\u00dfige Aktualisierungen.",
+jobAboNotification_FailureCopytext: "Oups, da ist wohl etwas schief gelaufen. Ihre E-Mail konnte nicht registriert werden. Bitte pr\u00fcfen Sie die angegebene E-Mail-Adresse und versuchen Sie es noch einmal.",
+jobAboNotification_NoEmail: "Bitte geben Sie Ihre E-Mail-Adresse ein.",
+};
+</script>
+<script src="/system/script-min.js"></script>
+
+<script type='text/javascript'> (function() { var a = String.fromCharCode(38); var lang = '1'; if (dataLayer[0]["language"] == 'en') {lang= "2"}; var mr = document.createElement('script'); mr.type = 'text/javascript'; mr.async = true; var myaudience_r = Math.floor(Math.random()*99999999999); mr.src = 'https://mafo1.myaudience.de/sv/rifflejs.php?a=85'+a+'b='+lang+a+'c=1'+a+'d=0'+ a+'i=0'+a+'r='+ myaudience_r; if (dataLayer[0]["primaryCategory"] == 'sustainability') { var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mr, s);} })(); </script>
+<script>
+var dl_lang = "de";
+var dl_hier1 = "magazine";
+var dl_hier2 = "magazine";
+var dl_pName = "start page";
+var dl_id = "magazin_startseite";
+var dl_pageName = "magazine>start page#magazin_startseite";
+var digitalData = {
+jobsearch:{
+keyword: "",
+results: 0,
+who: "",
+positiontype: "",
+field: "",
+location: "",
+businessunit: ""
+},
+pageInfo:{
+platform: "career",
+language: "de",
+geoRegion: "de",
+pageID: "magazin_startseite",
+pageName: "start page",
+template: "pt_magazin_startseite",
+articleType: "",
+publishDate: ""
+},
+category: {
+primaryCategory: "magazine",
+},
+mainsearch:{
+keyword: "",
+results: "0"
+}
+}
+</script>
+<script>_satellite.pageBottom();</script>
+<script type="text/javascript">
+(function($) {
+var globalPageID= "nav_"+ 1135566;
+var firstLevelID= "nav_"+ 0;
+$( "li."+globalPageID ).not( '#has-children' ).addClass('active');
+$( "li."+globalPageID ).parents("li").addClass('active-path open');
+$("div."+globalPageID ).addClass('active-section');
+$("a."+globalPageID ).parents("div").addClass('active-section');
+$("a."+firstLevelID ).addClass('active-child');
+$("a."+firstLevelID ).parents("div").addClass('active-section');
+})(jQuery);
+</script>
+<!-- /exclude -->
+<div class="info-layer-wrapper">
+<div id="blogInfo">
+<div class="info-dialog">
+<div class="info-content">
+<div class="info-header">
+<p class="info-title">Vom Blog zum Daimler-Magazin</p>
+</div>
+<div class="info-body">
+<p>Nicht erschrecken: Das Daimler-Blog hat sich am 7.11.2019 - nach zwölf Jahren - in den wohlverdienten Ruhestand verabschiedet. Sein Nachfolger ist das neue Daimler-Magazin – ein Magazin für Mobilität und Gesellschaft. Viel Spaß beim Lesen!
+</p>
+</div>
+<div class="info-footer">
+<a class="more-info" href="/magazin/">Mehr Infos zum Daimler-Magazin</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<style>
+@media screen and (max-width: 767px) {
+.fancybox-wrap.info-layer #blogInfo .info-dialog {
+width: auto;
+}
+}
+</style>
+<script>
+function getCookie(key) {
+var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+return keyValue ? keyValue[2] : null;
+}
+jq.urlParam = function(name){
+var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+if (results==null){
+return null;
+}
+else{
+return results[1] || 0;
+}
+}
+function showBlogInfo() {
+jq.fancybox({
+type : 'inline',
+arrows : false,
+closeBtn : true,
+content : jq('#blogInfo'),
+padding : '0',
+wrapCSS : 'info-layer',
+autoCenter : true,
+autoResize : true,
+helpers: {
+overlay: {
+locked: true
+}
+}
+});
+}
+var isBlogRedir = false;
+var myTimeout;
+if(jq.urlParam("r") == "blog") {
+isBlogRedir = true;
+}
+function checkBlogRedirect() {
+console.log("checkBlogRedirect-Aufruf");
+var cookiePolicy = getCookie('cookie_policy');
+if(dObj.helpers.cookieEnabled()){
+if(cookiePolicy && isBlogRedir){
+showBlogInfo();
+} else if(!cookiePolicy && isBlogRedir){
+myTimeout = setTimeout(checkBlogRedirect, 2000);
+}
+} else if (isBlogRedir){
+showBlogInfo();
+}
+}
+jq(document).ready(function($){
+checkBlogRedirect();
+});
+</script>
+</body>
+</html>
